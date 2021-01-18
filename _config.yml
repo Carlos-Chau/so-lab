@@ -2,13 +2,13 @@
 title: Lab Website Template
 email: jane.smith@your-lab.com
 google: Jane Smith
-github: your-lab
+github: so-lab
 twitter: YourLabHandle
 instagram: YourLabHandle
 youtube: YourLabChannel
 
 # base directory where site is hosted
-baseurl: /lab-website-template
+baseurl: /
 
 # default front matter parameters for markdown files
 defaults:
