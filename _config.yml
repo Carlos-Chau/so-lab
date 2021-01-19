@@ -1,11 +1,11 @@
 # site-wide variables
-title: Lab Website Template
-email: jane.smith@your-lab.com
-google: Jane Smith
-github: so-lab
-twitter: YourLabHandle
-instagram: YourLabHandle
-youtube: YourLabChannel
+title: So Lab @ CUHK
+email: carlos.chau.hk@gmail.com
+google: Carlos CHAU
+github: Carlos-Chau
+twitter: CarlosChau6
+#instagram: YourLabHandle
+#youtube: YourLabChannel
 
 # base directory where site is hosted
 baseurl: /
