@@ -4,7 +4,7 @@ title: Home
 
 # So Lab
 
-We are a research lab in (The Chinese University of Hong Kong, The School of Biomedical Sciences)[https://www2.sbs.cuhk.edu.hk/].
+We are a research lab in [The Chinese University of Hong Kong, The School of Biomedical Sciences](https://www2.sbs.cuhk.edu.hk/).
 
 Our lab focuses on genomics and drug discovery research.
 
