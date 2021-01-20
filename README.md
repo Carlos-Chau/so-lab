@@ -1,3 +1,6 @@
+## Finished Product
+https://so-lab.netlify.app/  
+
 ## About
 This is the repository for [So Lab](https://so-lab.netlify.app/). It was built from [the Greene Lab Website template](https://github.com/greenelab/lab-website-template)
 
@@ -10,5 +13,4 @@ This is the repository for [So Lab](https://so-lab.netlify.app/). It was built f
 - If Manubot returns error, consider manually compiling the `research-output` file
 
 ## Useful Links
-So Lab: https://so-lab.netlify.app/  
-So Lab Google Scholar: https://scholar.google.com/citations?hl=en&user=gfg2GusAAAAJ&view_op=list_works&sortby=pubdate
+[So Lab Google Scholar](https://scholar.google.com/citations?hl=en&user=gfg2GusAAAAJ&view_op=list_works&sortby=pubdate)
