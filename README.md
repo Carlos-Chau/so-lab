@@ -13,5 +13,5 @@ This is the repository for [So Lab](https://so-lab.netlify.app/). It was built f
 - If Manubot returns error, consider manually compiling the `research-output` file
 
 ## Useful Links
-[So Lab Google Scholar](https://scholar.google.com/citations?hl=en&user=gfg2GusAAAAJ&view_op=list_works&sortby=pubdate)
-[Greene Lab Template Web](https://greenelab.github.io/lab-website-template/)
+- [So Lab Google Scholar](https://scholar.google.com/citations?hl=en&user=gfg2GusAAAAJ&view_op=list_works&sortby=pubdate)
+- [Greene Lab Template Web](https://greenelab.github.io/lab-website-template/)
