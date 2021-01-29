@@ -1,14 +1,29 @@
-- title: Constructing knowledge graphs and their biomedical applications
+- title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility,
+    Replication Using Schizophrenia Datasets'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Kwan-Yeung Lee
+  - Kwong-Sak Leung
+  - Suk Ling Ma
+  - Hon Cheong So
+  - Dan Huang
+  - Nelson Leung-Sang Tang
+  - Man-Hon Wong
+  publisher: Frontiers in Genetics
+  date: '2020-08-28'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505102/
+  id: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505102/
+  image: https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/logo-frontgene.gif
+
+- title: Genomic Dissection of Bipolar Disorder and Schizophrenia, Including 28 Subphenotypes
+  authors:
+  - Bipolar Disorder and Schizophrenia Working Group of the Psychiatric Genomics Consortium
+  publisher: Cell
+  date: '2018-06-14'
+  link: https://www.sciencedirect.com/science/article/pii/S0092867418306585
+  id: doi.org/10.1016/j.cell.2018.05.046
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867418306585-fx1.jpg
   tags:
-  - knowledge graphs
+  - bipolar disorder
+  - schizophrenia
+  - subphenotypes
+  - polygenic risk
