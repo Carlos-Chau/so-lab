@@ -16,8 +16,8 @@ defaults:
   - scope:
       path: ""
     values:
-      description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-      background: images/background.jpg
+      description: Website of So Lab @ CUHK
+      background: images/ken-cheung-10py7Mvmf1g-unsplash.jpg
       layout: default
   # markdown files in /_members
   - scope:
