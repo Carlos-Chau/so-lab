@@ -1,5 +1,4 @@
-- title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility,
-    Replication Using Schizophrenia Datasets'
+- title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility, Replication Using Schizophrenia Datasets'
   publisher: Frontiers in Genetics
   date: '2020-08-28'
   link: https://www.frontiersin.org/articles/10.3389/fgene.2020.01003
@@ -18,9 +17,9 @@
   - subphenotypes
   - polygenic risk
 
-- title: ''
-  publisher:
-  date: ''
-  link:
-  id:
-  image:
+- id: https://doi.org/10.1016/j.ajhg.2019.10.012
+  title: 'Integrating Clinical Data and Imputed Transcriptome from GWAS to Uncover Complex Disease Subtypes: Applications in Psychiatry and Cardiology'
+  publisher: American Journal of Human Genetics
+  date: '2019-11-27'
+  link: https://doi.org/10.1016/j.ajhg.2019.10.012
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/50446b21-02c3-4f94-b590-57cb7e898118/gr2.jpg
