@@ -50,7 +50,7 @@
   date: '2018-12-20'
   link: https://www.cambridge.org/core/journals/psychological-medicine/article/abs/translating-gwas-findings-into-therapies-for-depression-and-anxiety-disorders-geneset-analyses-reveal-enrichment-of-psychiatric-drug-classes-and-implications-for-drug-repositioning/D62965428C6D178E0AF79B892C15E2C6
   id: https://doi.org/10.1017/S0033291718003641
-  image: https://doi.org/10.1017/S0033291718003641
+  image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
 
 - link: https://link.springer.com/book/10.1007/978-1-4939-8955-3
   title: 'Computational Methods for Drug Repurposing'
@@ -61,6 +61,121 @@
   date: '2018-12-14'
   image: https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4939-8955-3
 
+
+- link: https://onlinelibrary.wiley.com/doi/full/10.1002/da.22861
+  title: 'Differential associations of depression‐related phenotypes with cardiometabolic risks: Polygenic analyses and exploring shared genetic variants and pathways'
+  authors:
+  - Brian Chi‐Fung Wong
+  - Carlos Kwan‐Long Chau
+  - Fu‐Kiu Ao
+  - Cheuk‐Hei Mo
+  - Sze‐Yung Wong
+  - Yui‐Hang Wong
+  - Hon‐Cheong So
+  publisher: Depression and Anxiety
+  date: '2018-12-06'
+  image: https://onlinelibrary.wiley.com/cms/asset/7d3608f6-ec2f-4414-bd33-c9bff2d0a974/da22861-fig-0001-m.png
+
+- link: https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.b.32716
+  title: 'Population‐based identity‐by‐descent mapping combined with exome sequencing to detect rare risk variants for schizophrenia'
+  authors:
+    - Denise Harold
+    - Siobhan Connolly
+    - Brien P. Riley
+    - Kenneth S. Kendler
+    - Shane E. McCarthy
+    - William R. McCombie
+    - Alex Richards
+    - Michael J. Owen
+    - Michael C. O'Donovan
+    - James Walters
+    - Wellcome Trust Case Control Consortium 2
+    - Schizophrenia Working Group of the Psychiatric Genomics Consortium
+    - Gary Donohoe
+    - Michael Gill
+    - Aiden Corvin
+    - Derek W. Morris
+  publisher: Neuropsychiatric Genetics, Part B of the American Journal of Medical Genetics (AJMG)
+  date: '2019-02-23'
+  image: https://onlinelibrary.wiley.com/cms/asset/e62bcb2b-8601-45cb-ad8c-36a624dc4a8a/ajmgb32716-fig-0001-m.jpg
+
+- link: https://www.cambridge.org/core/journals/psychological-medicine/article/exploring-shared-genetic-bases-and-causal-relationships-of-schizophrenia-and-bipolar-disorder-with-28-cardiovascular-and-metabolic-traits/2B2E624CA0DDFFFC3969B67A090DF5C1
+  title: 'Exploring shared genetic bases and causal relationships of schizophrenia and bipolar disorder with 28 cardiovascular and metabolic traits'
+  authors:
+  - Hon-Cheong So
+  - Kwan-Long Chau
+  - Fu-Kiu Ao
+  - Cheuk-Hei Mo
+  - Pak-Chung Sham
+  publisher: Psychological Medicine
+  date: '2018-07-26'
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20190509090806056-0859:S0033291718001812:S0033291718001812_fig1g.gif
+
+- link: https://www.sciencedirect.com/science/article/pii/S0022395618308732?via%3Dihub
+  title: 'Implications of de novo mutations in guiding drug discovery: A study of four neuropsychiatric disorders'
+  authors:
+  - Hon-Cheong So
+  - Yui-Hang Wong
+  publisher: Journal of Psychiatric Research
+  date: '2019-03'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022395618308732-gr1.jpg
+
+- link: https://www.nature.com/articles/s41467-020-18249-3
+  title: 'Zonation-dependent single-endothelial cell transcriptomic changes in the aged brain'
+  authors:
+  - Lei Zhao
+  - Zhongqi Li
+  - Joaquim S. L. Vong
+  - Xinyi Chen
+  - Hei-Ming Lai
+  - Leo Y. C. Yan
+  - Junzhe Huang
+  - Samuel K. H. Sy
+  - Xiaoyu Tian
+  - Yu Huang
+  - Ho Yin Edwin Chan
+  - Hon-Cheong So
+  - Wai-Lung Ng
+  - Yamei Tang
+  - Wei-Jye Lin
+  - Vincent C.T. Mok
+  - Ho Ko
+  publisher: Nature Communications
+  date: '2020-09-04'
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18249-3/MediaObjects/41467_2020_18249_Fig1_HTML.png
+
+- link: https://www.sciencedirect.com/science/article/pii/S0378111920305709
+  title: 'Genome-wide copy number variation-, validation- and screening study implicates a new copy number polymorphism associated with suicide attempts in major depressive disorder'
+  authors:
+    - Shitao Rao
+    - Mai Shi
+    - Xinyu Han
+    - Marco Ho Bun Lam
+    - Wai Tong Chien
+    - Keying Zhou
+    - Guangming Liu
+    - Yun Kwok Wing
+    - Hon-Cheong So
+    - Mary Miu Yee Waye
+  publisher: Gene
+  date: '2020-09-10'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
+
+- link: https://science.sciencemag.org/content/360/6395/eaap8757
+  title: 'Analysis of shared heritability in common disorders of the brain'
+  authors:
+  - THE BRAINSTORM CONSORTIUM
+  publisher: Science
+  date: '2018-07-22'
+  image: https://science.sciencemag.org/content/sci/360/6395/eaap8757/F3.medium.gif
+
+# - link:
+#   title: ''
+#   authors:
+#   -
+#   publisher:
+#   date: ''
+#   image:
 
 # - link:
 #   title: ''
