@@ -1,13 +1,5 @@
 - title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility,
     Replication Using Schizophrenia Datasets'
-  authors:
-  - Kwan-Yeung Lee
-  - Kwong-Sak Leung
-  - Suk Ling Ma
-  - Hon Cheong So
-  - Dan Huang
-  - Nelson Leung-Sang Tang
-  - Man-Hon Wong
   publisher: Frontiers in Genetics
   date: '2020-08-28'
   link: https://www.frontiersin.org/articles/10.3389/fgene.2020.01003
@@ -15,8 +7,6 @@
   image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_m/fgene-11-01003-g001.jpg
 
 - title: Genomic Dissection of Bipolar Disorder and Schizophrenia, Including 28 Subphenotypes
-  authors:
-  - Bipolar Disorder and Schizophrenia Working Group of the Psychiatric Genomics Consortium
   publisher: Cell
   date: '2018-06-14'
   link: https://www.sciencedirect.com/science/article/pii/S0092867418306585
@@ -27,3 +17,10 @@
   - schizophrenia
   - subphenotypes
   - polygenic risk
+
+- title: ''
+  publisher:
+  date: ''
+  link:
+  id:
+  image:
