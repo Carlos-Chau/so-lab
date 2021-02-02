@@ -44,6 +44,8 @@ Our Team
   text=text
 %}
 
+<!-- section break -->
+
 # Lab Website Template
 
 This website is built based on Greene Lab's lab website [template](https://github.com/greenelab/lab-website-template).
