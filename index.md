@@ -2,11 +2,9 @@
 title: Home
 ---
 
-# About
+# About SO Lab
 
-Hi!
-
-We are a bioinformatics research lab at The Chinese University of Hong Kong.
+Hi! We are a bioinformatics research lab at The Chinese University of Hong Kong.
 
 Our lab is led by [Prof. SO Hon-Cheong](https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-so-hon-cheong), and we focus on genomics and drug discovery research.
 
@@ -48,6 +46,6 @@ Our Team
 
 # Lab Website Template
 
-This website is built based on Greene Lab's lab website [template](https://github.com/greenelab/lab-website-template).
+This website is built based on Greene Lab's [lab website template](https://github.com/greenelab/lab-website-template).
 
 Our modification of the template is documented [here](https://github.com/Carlos-Chau/so-lab).
