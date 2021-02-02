@@ -25,6 +25,7 @@
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/50446b21-02c3-4f94-b590-57cb7e898118/gr2.jpg
 
 - link: https://doi.org/10.1017/S0033291718003641
+  title: Translating GWAS findings into therapies for depression and anxiety disorders: gene-set analyses reveal enrichment of psychiatric drug classes and implications for drug repositioning
   authors:
   - Hon-Cheong So
   - Carlos Kwan-Long Chau
@@ -102,47 +103,6 @@
   publisher: Journal of Psychiatric Research
   date: '2019-03-01'
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022395618308732-gr1.jpg
-
-- link: https://www.nature.com/articles/s41467-020-18249-3
-  title: 'Zonation-dependent single-endothelial cell transcriptomic changes in the aged brain'
-  authors:
-  - Lei Zhao
-  - Zhongqi Li
-  - Joaquim S. L. Vong
-  - Xinyi Chen
-  - Hei-Ming Lai
-  - Leo Y. C. Yan
-  - Junzhe Huang
-  - Samuel K. H. Sy
-  - Xiaoyu Tian
-  - Yu Huang
-  - Ho Yin Edwin Chan
-  - Hon-Cheong So
-  - Wai-Lung Ng
-  - Yamei Tang
-  - Wei-Jye Lin
-  - Vincent C.T. Mok
-  - Ho Ko
-  publisher: Nature Communications
-  date: '2020-09-04'
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18249-3/MediaObjects/41467_2020_18249_Fig1_HTML.png
-
-- link: https://www.sciencedirect.com/science/article/pii/S0378111920305709
-  title: 'Genome-wide copy number variation-, validation- and screening study implicates a new copy number polymorphism associated with suicide attempts in major depressive disorder'
-  authors:
-    - Shitao Rao
-    - Mai Shi
-    - Xinyu Han
-    - Marco Ho Bun Lam
-    - Wai Tong Chien
-    - Keying Zhou
-    - Guangming Liu
-    - Yun Kwok Wing
-    - Hon-Cheong So
-    - Mary Miu Yee Waye
-  publisher: Gene
-  date: '2020-09-10'
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
 
 - link: https://science.sciencemag.org/content/360/6395/eaap8757
   title: 'Analysis of shared heritability in common disorders of the brain'
