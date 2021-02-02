@@ -1,186 +1,331 @@
-- title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility, Replication Using Schizophrenia Datasets'
+- title: Estimation of Genetic Correlation via Linkage Disequilibrium Score Regression
+    and Genomic Restricted Maximum Likelihood
   authors:
-  - Kwan-Yeung Lee
-  - Kwong-Sak Leung
-  - Suk Ling Ma
-  - Hon Cheong So
-  - Dan Huang
-  - Nelson Leung-Sang Tang
-  - Man-Hon Wong
-  publisher: Frontiers in Genetics
-  date: '2020-08-28'
-  link: https://www.frontiersin.org/articles/10.3389/fgene.2020.01003
-  id: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7505102/
-  image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_m/fgene-11-01003-g001.jpg
-
-- title: Genomic Dissection of Bipolar Disorder and Schizophrenia, Including 28 Subphenotypes
-  authors:
-  - Bipolar Disorder and Schizophrenia Working Group of the Psychiatric Genomics Consortium
-  publisher: Cell
-  date: '2018-06-14'
-  link: https://www.sciencedirect.com/science/article/pii/S0092867418306585
-  id: doi.org/10.1016/j.cell.2018.05.046
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867418306585-fx1.jpg
-  tags:
-  - bipolar disorder
-  - schizophrenia
-  - subphenotypes
-  - polygenic risk
-
-- id: https://doi.org/10.1016/j.ajhg.2019.10.012
-  title: 'Integrating Clinical Data and Imputed Transcriptome from GWAS to Uncover Complex Disease Subtypes: Applications in Psychiatry and Cardiology'
-  authors:
-    - Liangying Yin
-    - Carlos K.L. Chau
-    - Pak-Chung Sham
-    - Hon-Cheong So
-  publisher: American Journal of Human Genetics
-  date: '2019-11-27'
-  link: https://doi.org/10.1016/j.ajhg.2019.10.012
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/50446b21-02c3-4f94-b590-57cb7e898118/gr2.jpg
-
-- title: 'Translating GWAS findings into therapies for depression and anxiety disorders: gene-set analyses reveal enrichment of psychiatric drug classes and implications for drug repositioning'
-  authors:
+  - Guiyan Ni
+  - Gerhard Moser
+  - Naomi R. Wray
+  - S. Hong Lee
+  - Stephan Ripke
+  - Benjamin M. Neale
+  - Aiden Corvin
+  - James T.R. Walters
+  - Kai-How Farh
+  - Peter A. Holmans
+  - Phil Lee
+  - Brendan Bulik-Sullivan
+  - David A. Collier
+  - Hailiang Huang
+  - Tune H. Pers
+  - Ingrid Agartz
+  - Esben Agerbo
+  - Margot Albus
+  - Madeline Alexander
+  - Farooq Amin
+  - Silviu A. Bacanu
+  - Martin Begemann
+  - Richard A. Belliveau
+  - Judit Bene
+  - Sarah E. Bergen
+  - Elizabeth Bevilacqua
+  - Tim B. Bigdeli
+  - Donald W. Black
+  - Richard Bruggeman
+  - Nancy G. Buccola
+  - Randy L. Buckner
+  - William Byerley
+  - Wiepke Cahn
+  - Guiqing Cai
+  - Dominique Campion
+  - Rita M. Cantor
+  - Vaughan J. Carr
+  - Noa Carrera
+  - Stanley V. Catts
+  - Kimberly D. Chambert
+  - Raymond C.K. Chan
+  - Ronald Y.L. Chen
+  - Eric Y.H. Chen
+  - Wei Cheng
+  - Eric F.C. Cheung
+  - Siow Ann Chong
+  - C. Robert Cloninger
+  - David Cohen
+  - Nadine Cohen
+  - Paul Cormican
+  - Nick Craddock
+  - James J. Crowley
+  - David Curtis
+  - Michael Davidson
+  - Kenneth L. Davis
+  - Franziska Degenhardt
+  - Jurgen Del Favero
+  - Ditte Demontis
+  - Dimitris Dikeos
+  - Timothy Dinan
+  - Srdjan Djurovic
+  - Gary Donohoe
+  - Elodie Drapeau
+  - Jubao Duan
+  - Frank Dudbridge
+  - Naser Durmishi
+  - Peter Eichhammer
+  - Johan Eriksson
+  - Valentina Escott-Price
+  - Laurent Essioux
+  - Ayman H. Fanous
+  - Martilias S. Farrell
+  - Josef Frank
+  - Lude Franke
+  - Robert Freedman
+  - Nelson B. Freimer
+  - Marion Friedl
+  - Joseph I. Friedman
+  - Menachem Fromer
+  - Giulio Genovese
+  - Lyudmila Georgieva
+  - Ina Giegling
+  - "Paola Giusti-Rodr\xEDguez"
+  - Stephanie Godard
+  - Jacqueline I. Goldstein
+  - Vera Golimbet
+  - Srihari Gopal
+  - Jacob Gratten
+  - Lieuwe de Haan
+  - Christian Hammer
+  - Marian L. Hamshere
+  - Mark Hansen
+  - Thomas Hansen
+  - Vahram Haroutunian
+  - Annette M. Hartmann
+  - Frans A. Henskens
+  - Stefan Herms
+  - Joel N. Hirschhorn
+  - Per Hoffmann
+  - Andrea Hofman
+  - Mads V. Hollegaard
+  - David M. Hougaard
+  - Masashi Ikeda
+  - Inge Joa
+  - "Antonio Juli\xE1"
+  - "Ren\xE9 S. Kahn"
+  - Luba Kalaydjieva
+  - Sena Karachanak-Yankova
+  - Juha Karjalainen
+  - David Kavanagh
+  - Matthew C. Keller
+  - James L. Kennedy
+  - Andrey Khrunin
+  - Yunjung Kim
+  - Janis Klovins
+  - James A. Knowles
+  - Bettina Konte
+  - Vaidutis Kucinskas
+  - Zita Ausrele Kucinskiene
+  - Hana Kuzelova-Ptackova
+  - "Anna K. K\xE4hler"
+  - Claudine Laurent
+  - Jimmy Lee Chee Keong
+  - Sophie E. Legge
+  - Bernard Lerer
+  - Miaoxin Li
+  - Tao Li
+  - Kung-Yee Liang
+  - Jeffrey Lieberman
+  - Svetlana Limborska
+  - Carmel M. Loughland
+  - Jan Lubinski
+  - "Jouko L\xF6nnqvist"
+  - Milan Macek
+  - Patrik K.E. Magnusson
+  - Brion S. Maher
+  - Wolfgang Maier
+  - Jacques Mallet
+  - Sara Marsal
+  - Manuel Mattheisen
+  - Morten Mattingsda
+  - Robert W. McCarley
+  - Colm McDonald
+  - Andrew M. McIntosh
+  - Sandra Meier
+  - Carin J. Meijer
+  - Bela Melegh
+  - Ingrid Melle
+  - Raquelle I. Mesholam-Gately
+  - Andres Metspalu
+  - Patricia T. Michie
+  - Lili Milani
+  - Vihra Milanova
+  - Younes Mokrab
+  - Derek W. Morris
+  - Ole Mors
+  - Kieran C. Murphy
+  - Robin M. Murray
+  - Inez Myin-Germeys
+  - "Bertram M\xFCller-Myhsok"
+  - Mari Nelis
+  - Igor Nenadic
+  - Deborah A. Nertney
+  - Gerald Nestadt
+  - Kristin K. Nicodemus
+  - Liene Nikitina-Zake
+  - Laura Nisenbaum
+  - Annelie Nordin
+  - "Eadbhard O\u2019Callaghan"
+  - "Colm O\u2019Dushlaine"
+  - "F. Anthony O\u2019Neill"
+  - Sang-Yun Oh
+  - Ann Olinc
+  - Line Olsen
+  - Jim Van Os
+  - Christos Pantelis
+  - George N. Papadimitriou
+  - Sergi Papio
+  - Elena Parkhomenko
+  - Michele T. Pato
+  - Tiina Paunio
+  - Milica Pejovic-Milovancevic
+  - Diana O. Perkins
+  - "Olli Pietil\xE4inenl"
+  - Jonathan Pimm
+  - Andrew J. Pocklington
+  - John Powell
+  - Alkes Price
+  - Ann E. Pulver
+  - Shaun M. Purcell
+  - Digby Quested
+  - Henrik B. Rasmussen
+  - Abraham Reichenberg
+  - Mark A. Reimers
+  - Alexander L. Richards
+  - Joshua L. Roffman
+  - Panos Roussos
+  - Douglas M. Ruderfer
+  - Veikko Salomaa
+  - Alan R. Sanders
+  - Ulrich Schall
+  - Christian R. Schubert
+  - Thomas G. Schulze
+  - Sibylle G. Schwab
+  - Edward M. Scolnick
+  - Rodney J. Scott
+  - Larry J. Seidman
+  - Jianxin Shi
+  - Engilbert Sigurdsson
+  - Teimuraz Silagadze
+  - Jeremy M. Silverman
+  - Kang Sim
+  - Petr Slominsky
+  - Jordan W. Smoller
   - Hon-Cheong So
-  - Carlos Kwan-Long Chau
-  - Alexandria Lau
-  - Sze-Yung Wong
-  - Kai Zhao
-  publisher: Psychological Medicine
-  date: '2018-12-20'
-  link: https://www.cambridge.org/core/journals/psychological-medicine/article/abs/translating-gwas-findings-into-therapies-for-depression-and-anxiety-disorders-geneset-analyses-reveal-enrichment-of-psychiatric-drug-classes-and-implications-for-drug-repositioning/D62965428C6D178E0AF79B892C15E2C6
-  id: https://doi.org/10.1017/S0033291718003641
-  image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
-
-- link: https://link.springer.com/book/10.1007/978-1-4939-8955-3
-  title: 'Computational Methods for Drug Repurposing'
+  - Chris C.A. Spencer
+  - Eli A. Stah
+  - Hreinn Stefansson
+  - Stacy Steinberg
+  - Elisabeth Stogmann
+  - Richard E. Straub
+  - Eric Strengman
+  - Jana Strohmaier
+  - T. Scott Stroup
+  - Mythily Subramaniam
+  - Jaana Suvisaari
+  - Dragan M. Svrakic
+  - Jin P. Szatkiewicz
+  - "Erik S\xF6derman"
+  - Srinivas Thirumalai
+  - Draga Toncheva
+  - Sarah Tosato
+  - Juha Veijola
+  - John Waddington
+  - Dermot Walsh
+  - Dai Wang
+  - Qiang Wang
+  - Bradley T. Webb
+  - Mark Weiser
+  - Dieter B. Wildenauer
+  - Nigel M. Williams
+  - Stephanie Williams
+  - Stephanie H. Witt
+  - Aaron R. Wolen
+  - Emily H.M. Wong
+  - Brandon K. Wormley
+  - Hualin Simon Xi
+  - Clement C. Zai
+  - Xuebin Zheng
+  - Fritz Zimprich
+  - Kari Stefansson
+  - Peter M. Visscher
+  - Rolf Adolfsson
+  - Ole A. Andreassen
+  - Douglas H.R. Blackwood
+  - Elvira Bramon
+  - Joseph D. Buxbaum
+  - "Anders D. B\xF8rglum"
+  - Sven Cichon
+  - Ariel Darvasi
+  - Enrico Domenici
+  - Hannelore Ehrenreich
+  - "T\xF5nu Esko"
+  - Pablo V. Gejman
+  - Michael Gill
+  - Hugh Gurling
+  - Christina M. Hultman
+  - Nakao Iwata
+  - Assen V. Jablensky
+  - "Erik G. J\xF6nsson"
+  - Kenneth S. Kendler
+  - George Kirov
+  - Jo Knight
+  - Todd Lencz
+  - Douglas F. Levinson
+  - Qingqin S. Li
+  - Jianjun Liu
+  - Anil K. Malhotra
+  - Steven A. McCarrol
+  - Andrew McQuillin
+  - Jennifer L. Moran
+  - Preben B. Mortensen
+  - Bryan J. Mowry
+  - "Markus M. N\xF6then"
+  - Roel A. Ophoff
+  - Michael J. Owen
+  - Aarno Palotie
+  - Carlos N. Pato
+  - Tracey L. Petryshen
+  - Danielle Posthuma
+  - Marcella Rietsche
+  - Brien P. Riley
+  - Dan Rujescu
+  - Pak C. Sham
+  - Pamela Sklar
+  - David St Clair
+  - Daniel R. Weinberger
+  - Jens R. Wendland
+  - Thomas Werge
+  - Mark J. Daly
+  - Patrick F. Sullivan
+  - "Michael C. O\u2019Donovan"
+  publisher: The American Journal of Human Genetics
+  date: '2018-06-01'
+  link: http://dx.doi.org/10.1016/j.ajhg.2018.03.021
+  id: http://dx.doi.org/10.1016/j.ajhg.2018.03.021
+- title: 'Drug Repositioning for Schizophrenia and Depression/Anxiety Disorders: A
+    Machine Learning Approach Leveraging Expression Data'
   authors:
-  - Kai Zhao
-  - Hon-Cheong So
-  publisher: Computational Methods for Drug Repurposing
-  date: '2018-12-14'
-  image: https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4939-8955-3
-
-
-- link: https://onlinelibrary.wiley.com/doi/full/10.1002/da.22861
-  title: 'Differential associations of depression‐related phenotypes with cardiometabolic risks: Polygenic analyses and exploring shared genetic variants and pathways'
+  - K. Zhao
+  - H.-C. So
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2019-05-01'
+  link: http://dx.doi.org/10.1109/JBHI.2018.2856535
+  id: http://dx.doi.org/10.1109/JBHI.2018.2856535
+- title: Leveraging genome-wide association and clinical data in revealing schizophrenia
+    subgroups
   authors:
-  - Brian Chi‐Fung Wong
-  - Carlos Kwan‐Long Chau
-  - Fu‐Kiu Ao
-  - Cheuk‐Hei Mo
-  - Sze‐Yung Wong
-  - Yui‐Hang Wong
-  - Hon‐Cheong So
-  publisher: Depression and Anxiety
-  date: '2018-12-06'
-  image: https://onlinelibrary.wiley.com/cms/asset/7d3608f6-ec2f-4414-bd33-c9bff2d0a974/da22861-fig-0001-m.png
-
-- link: https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.b.32716
-  title: 'Population‐based identity‐by‐descent mapping combined with exome sequencing to detect rare risk variants for schizophrenia'
-  authors:
-    - Denise Harold
-    - Siobhan Connolly
-    - Brien P. Riley
-    - Kenneth S. Kendler
-    - Shane E. McCarthy
-    - William R. McCombie
-    - Alex Richards
-    - Michael J. Owen
-    - Michael C. O'Donovan
-    - James Walters
-    - Wellcome Trust Case Control Consortium 2
-    - Schizophrenia Working Group of the Psychiatric Genomics Consortium
-    - Gary Donohoe
-    - Michael Gill
-    - Aiden Corvin
-    - Derek W. Morris
-  publisher: Neuropsychiatric Genetics, Part B of the American Journal of Medical Genetics (AJMG)
-  date: '2019-02-23'
-  image: https://onlinelibrary.wiley.com/cms/asset/e62bcb2b-8601-45cb-ad8c-36a624dc4a8a/ajmgb32716-fig-0001-m.jpg
-
-- link: https://www.cambridge.org/core/journals/psychological-medicine/article/exploring-shared-genetic-bases-and-causal-relationships-of-schizophrenia-and-bipolar-disorder-with-28-cardiovascular-and-metabolic-traits/2B2E624CA0DDFFFC3969B67A090DF5C1
-  title: 'Exploring shared genetic bases and causal relationships of schizophrenia and bipolar disorder with 28 cardiovascular and metabolic traits'
-  authors:
-  - Hon-Cheong So
-  - Kwan-Long Chau
-  - Fu-Kiu Ao
-  - Cheuk-Hei Mo
+  - Liangying Yin
+  - Eric Fuk-Chi Cheung
+  - Ronald Yuk-Lun Chen
+  - Emily Hoi-Man Wong
   - Pak-Chung Sham
-  publisher: Psychological Medicine
-  date: '2018-07-26'
-  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20190509090806056-0859:S0033291718001812:S0033291718001812_fig1g.gif
-
-- link: https://www.sciencedirect.com/science/article/pii/S0022395618308732?via%3Dihub
-  title: 'Implications of de novo mutations in guiding drug discovery: A study of four neuropsychiatric disorders'
-  authors:
   - Hon-Cheong So
-  - Yui-Hang Wong
   publisher: Journal of Psychiatric Research
-  date: '2019-03'
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022395618308732-gr1.jpg
-
-- link: https://www.nature.com/articles/s41467-020-18249-3
-  title: 'Zonation-dependent single-endothelial cell transcriptomic changes in the aged brain'
-  authors:
-  - Lei Zhao
-  - Zhongqi Li
-  - Joaquim S. L. Vong
-  - Xinyi Chen
-  - Hei-Ming Lai
-  - Leo Y. C. Yan
-  - Junzhe Huang
-  - Samuel K. H. Sy
-  - Xiaoyu Tian
-  - Yu Huang
-  - Ho Yin Edwin Chan
-  - Hon-Cheong So
-  - Wai-Lung Ng
-  - Yamei Tang
-  - Wei-Jye Lin
-  - Vincent C.T. Mok
-  - Ho Ko
-  publisher: Nature Communications
-  date: '2020-09-04'
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18249-3/MediaObjects/41467_2020_18249_Fig1_HTML.png
-
-- link: https://www.sciencedirect.com/science/article/pii/S0378111920305709
-  title: 'Genome-wide copy number variation-, validation- and screening study implicates a new copy number polymorphism associated with suicide attempts in major depressive disorder'
-  authors:
-    - Shitao Rao
-    - Mai Shi
-    - Xinyu Han
-    - Marco Ho Bun Lam
-    - Wai Tong Chien
-    - Keying Zhou
-    - Guangming Liu
-    - Yun Kwok Wing
-    - Hon-Cheong So
-    - Mary Miu Yee Waye
-  publisher: Gene
-  date: '2020-09-10'
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
-
-- link: https://science.sciencemag.org/content/360/6395/eaap8757
-  title: 'Analysis of shared heritability in common disorders of the brain'
-  authors:
-  - THE BRAINSTORM CONSORTIUM
-  publisher: Science
-  date: '2018-07-22'
-  image: https://science.sciencemag.org/content/sci/360/6395/eaap8757/F3.medium.gif
-
-# - link:
-#   title: ''
-#   authors:
-#   -
-#   publisher:
-#   date: ''
-#   image:
-
-# - link:
-#   title: ''
-#   authors:
-#   -
-#   publisher:
-#   date: ''
-#   image:
+  date: '2018-11-01'
+  link: http://dx.doi.org/10.1016/j.jpsychires.2018.09.010
+  id: http://dx.doi.org/10.1016/j.jpsychires.2018.09.010
