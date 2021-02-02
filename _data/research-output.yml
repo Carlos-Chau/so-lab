@@ -241,70 +241,70 @@
   date: '2020-09-01'
   id: doi:10.1158/0008-5472.CAN-19-3782
   image: https://cancerres.aacrjournals.org/content/canres/80/17/3556/F1.medium.gif
-# - link: https://doi.org/gg2t45
-#   title: Genome-wide copy number variation-, validation- and screening study implicates
-#     a new copy number polymorphism associated with suicide attempts in major depressive
-#     disorder
-#   authors:
-#   - Shitao Rao
-#   - Mai Shi
-#   - Xinyu Han
-#   - Marco Ho Bun Lam
-#   - Wai Tong Chien
-#   - Keying Zhou
-#   - Guangming Liu
-#   - Yun Kwok Wing
-#   - Hon-Cheong So
-#   - Mary Miu Yee Waye
-#   publisher: Gene
-#   date: '2020-09-01'
-#   id: doi:10.1016/j.gene.2020.144901
-#   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
-# - link: https://doi.org/ggxwrb
-#   title: 'ASPM-lexical tone association in speakers of a tone language: Direct
-#     evidence for the genetic-biasing hypothesis of language evolution'
-#   authors:
-#   - Patrick C. M. Wong
-#   - Xin Kang
-#   - Kay H. Y. Wong
-#   - Hon-Cheong So
-#   - Kwong Wai Choy
-#   - Xiujuan Geng
-#   publisher: Science Advances
-#   date: '2020-05-27'
-#   id: doi:10.1126/sciadv.aba5090
-#   image: https://advances.sciencemag.org/content/advances/6/22/eaba5090/F1.medium.gif
-# - link: https://doi.org/ggvnnz
-#   title: Complement genes contribute sex-biased vulnerability in diverse disorders
-#   authors:
-#   - Nolan Kamitaki
-#   - Aswin Sekar
-#   - Robert E. Handsaker
-#   - Heather de Rivera
-#   - Katherine Tooley
-#   - David L. Morris
-#   - Kimberly E. Taylor
-#   - Christopher W. Whelan
-#   - Philip Tombleson
-#   - Loes M. Olde Loohuis
-#   - Michael Boehnke
-#   - Robert P. Kimberly
-#   - Kenneth M. Kaufman
-#   - John B. Harley
-#   - Carl D. Langefeld
-#   - Christine E. Seidman
-#   - Michele T. Pato
-#   - Carlos N. Pato
-#   - Roel A. Ophoff
-#   - Robert R. Graham
-#   - Lindsey A. Criswell
-#   - Timothy J. Vyse
-#   - Steven A. McCarroll
-#   - ' '
-#   publisher: Nature
-#   date: '2020-05-11'
-#   id: doi:10.1038/s41586-020-2277-x
-#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png
+- link: https://doi.org/gg2t45
+  title: Genome-wide copy number variation-, validation- and screening study implicates
+    a new copy number polymorphism associated with suicide attempts in major depressive
+    disorder
+  authors:
+  - Shitao Rao
+  - Mai Shi
+  - Xinyu Han
+  - Marco Ho Bun Lam
+  - Wai Tong Chien
+  - Keying Zhou
+  - Guangming Liu
+  - Yun Kwok Wing
+  - Hon-Cheong So
+  - Mary Miu Yee Waye
+  publisher: Gene
+  date: '2020-09-01'
+  id: doi:10.1016/j.gene.2020.144901
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
+- link: https://doi.org/ggxwrb
+  title: 'ASPM-lexical tone association in speakers of a tone language: Direct
+    evidence for the genetic-biasing hypothesis of language evolution'
+  authors:
+  - Patrick C. M. Wong
+  - Xin Kang
+  - Kay H. Y. Wong
+  - Hon-Cheong So
+  - Kwong Wai Choy
+  - Xiujuan Geng
+  publisher: Science Advances
+  date: '2020-05-27'
+  id: doi:10.1126/sciadv.aba5090
+  image: https://advances.sciencemag.org/content/advances/6/22/eaba5090/F1.medium.gif
+- link: https://doi.org/ggvnnz
+  title: Complement genes contribute sex-biased vulnerability in diverse disorders
+  authors:
+  - Nolan Kamitaki
+  - Aswin Sekar
+  - Robert E. Handsaker
+  - Heather de Rivera
+  - Katherine Tooley
+  - David L. Morris
+  - Kimberly E. Taylor
+  - Christopher W. Whelan
+  - Philip Tombleson
+  - Loes M. Olde Loohuis
+  - Michael Boehnke
+  - Robert P. Kimberly
+  - Kenneth M. Kaufman
+  - John B. Harley
+  - Carl D. Langefeld
+  - Christine E. Seidman
+  - Michele T. Pato
+  - Carlos N. Pato
+  - Roel A. Ophoff
+  - Robert R. Graham
+  - Lindsey A. Criswell
+  - Timothy J. Vyse
+  - Steven A. McCarroll
+  - ' '
+  publisher: Nature
+  date: '2020-05-11'
+  id: doi:10.1038/s41586-020-2277-x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png
 # - link: https://doi.org/ggxz79
 #   title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
 #     of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
