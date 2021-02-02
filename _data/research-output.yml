@@ -13,7 +13,7 @@
   - polygenic risk
 
 - id: https://doi.org/10.1016/j.ajhg.2019.10.012
-  title: 'Integrating Clinical Data and Imputed Transcriptome from GWAS to Uncover Complex Disease Subtypes: Applications in Psychiatry and Cardiology'
+  title: 'Integrgating Clinical Data and Imputed Transcriptome from GWAS to Uncover Complex Disease Subtypes: Applications in Psychiatry and Cardiology'
   authors:
     - Liangying Yin
     - Carlos K.L. Chau
@@ -445,3 +445,64 @@
   date: '2016-01-27'
   id: doi:10.1038/nature16549
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature16549/MediaObjects/41586_2016_Article_BFnature16549_Fig1_HTML.jpg
+
+# missing articles
+- link: https://link.springer.com/protocol/10.1007%2F978-1-4939-8955-3_13
+  title: 'Using Drug Expression Profiles and Machine Learning Approach for Drug Repurposing'
+  authors:
+    - Kai Zhao
+    - Hon-Cheong So
+  publisher: Methods in Molecular Biology
+  date: '2018-12-14'
+  id: doi:10.1007/978-1-4939-8955-3_13
+  image: https://link.springer.com/springerlink-static/1690283241/images/svg/springerlink.svg
+
+- link: https://pubmed.ncbi.nlm.nih.gov/30312963/
+  title: 'Leveraging genome-wide association and clinical data in revealing schizophrenia subgroups'
+  authors:
+    - Liangying Yin
+    - Eric Fuk-Chi Cheung
+    - Ronald Yuk-Lun Chen
+    - Emily Hoi-Man Wong
+    - Pak-Chung Sham
+    - Hon-Cheong So
+  publisher: Journal of Psychiatric Research
+  date: '2018-11-01'
+  id: doi:10.1016/j.jpsychires.2018.09.010
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022395618304151-gr1.jpg
+
+- link: https://ieeexplore.ieee.org/document/8411482
+  title: 'Drug Repositioning for Schizophrenia and Depression/Anxiety Disorders: A Machine Learning Approach Leveraging Expression Data'
+  authors:
+    - Kai Zhao
+    - Hon-Cheong So
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2019-05-01'
+  id: doi:10.1109/JBHI.2018.2856535
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6221020/8705605/8411482/so.t2-2856535-small.gif
+
+- link: https://pubmed.ncbi.nlm.nih.gov/29977057/
+  title: Age at first birth in women is genetically associated with increased risk of schizophrenia
+  authors:
+    - Guiyan Ni
+    - Jacob Gratten
+    - Naomi R Wray
+    - Sang Hong Lee
+    - Schizophrenia Working Group of the Psychiatric Genomics Consortium
+  publisher: Scientific Reports
+  date: '2018-07-05'
+  id: doi:10.1038/s41598-018-28160-z
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6033923/bin/41598_2018_28160_Fig1_HTML.jpg
+
+- link: https://pubmed.ncbi.nlm.nih.gov/29754766/
+  title: 'Estimation of Genetic Correlation via Linkage Disequilibrium Score Regression and Genomic Restricted Maximum Likelihood'
+  authors:
+    - Guiyan Ni
+    - Gerhard Moser
+    - Schizophrenia Working Group of the Psychiatric Genomics Consortium
+    - Naomi R Wray
+    - S Hong Lee
+  publisher: American Journal of Human Genetics
+  id: doi:10.1016/j.ajhg.2018.03.021
+  date: '2018-06-07'
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5993419/bin/gr3.jpg
