@@ -7,6 +7,6 @@ title: Research
 
 <!-- section break -->
 
-{% include card-search.html subject="papers" %}
+<!-- {% include card-search.html subject="papers" %} -->
 
 {% include research-list.html %}
