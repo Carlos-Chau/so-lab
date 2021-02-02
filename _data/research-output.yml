@@ -113,330 +113,327 @@
   image: https://science.sciencemag.org/content/sci/360/6395/eaap8757/F3.medium.gif
 
 # 2020, 2016-17, Manubot generated, image added afterwards
-- link: https://doi.org/ghw5v6
-  title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility,
-    Replication Using Schizophrenia Datasets'
-  authors:
-  - Kwan-Yeung Lee
-  - Kwong-Sak Leung
-  - Suk Ling Ma
-  - Hon Cheong So
-  - Dan Huang
-  - Nelson Leung-Sang Tang
-  - Man-Hon Wong
-  publisher: Frontiers in Genetics
-  date: '2020-08-28'
-  id: doi:10.3389/fgene.2020.01003
-  image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_m/fgene-11-01003-g001.jpg
-- link: https://doi.org/ghhnkp
-  title: Pharmacologically reversible zonation-dependent endothelial cell transcriptomic
-    changes with neurodegenerative disease associations in the aged brain
-  authors:
-  - Lei Zhao
-  - Zhongqi Li
-  - Joaquim S. L. Vong
-  - Xinyi Chen
-  - Hei-Ming Lai
-  - Leo Y. C. Yan
-  - Junzhe Huang
-  - Samuel K. H. Sy
-  - Xiaoyu Tian
-  - Yu Huang
-  - Ho Yin Edwin Chan
-  - Hon-Cheong So
-  - Wai-Lung Ng
-  - Yamei Tang
-  - Wei-Jye Lin
-  - Vincent C. T. Mok
-  - Ho Ko
-  publisher: Nature Communications
-  date: '2020-09-04'
-  id: doi:10.1038/s41467-020-18249-3
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18249-3/MediaObjects/41467_2020_18249_Fig1_HTML.png
-- link: https://doi.org/ghw5v7
-  title: Turning genome-wide association study findings into opportunities for drug
-    repositioning
-  authors:
-  - Alexandria Lau
-  - Hon-Cheong So
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  id: doi:10.1016/j.csbj.2020.06.015
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020303044-ga1.jpg
-- link: https://doi.org/ghw5v8
-  title: "Epigenetic CRISPR Screens Identify <i>Npm1</i> as a Therapeutic Vulnerability\
-    \ in Non\u2013Small Cell Lung Cancer"
-  authors:
-  - Fei Li
-  - Wai-Lung Ng
-  - Troy A. Luster
-  - Hai Hu
-  - Vladislav O. Sviderskiy
-  - "Catr\xEDona M. Dowling"
-  - Kate E.R. Hollinshead
-  - Paula Zouitine
-  - Hua Zhang
-  - Qingyuan Huang
-  - Michela Ranieri
-  - Wei Wang
-  - Zhaoyuan Fang
-  - Ting Chen
-  - Jiehui Deng
-  - Kai Zhao
-  - Hon-Cheong So
-  - Alireza Khodadadi-Jamayran
-  - Mousheng Xu
-  - Angeliki Karatza
-  - Val Pyon
-  - Shuai Li
-  - Yuanwang Pan
-  - Kristen Labbe
-  - Christina Almonte
-  - John T. Poirier
-  - George Miller
-  - Richard Possemato
-  - Jun Qi
-  - Kwok-Kin Wong
-  publisher: Cancer Research
-  date: '2020-09-01'
-  id: doi:10.1158/0008-5472.CAN-19-3782
-  image: https://cancerres.aacrjournals.org/content/canres/80/17/3556/F1.medium.gif
-- link: https://doi.org/gg2t45
-  title: Genome-wide copy number variation-, validation- and screening study implicates
-    a new copy number polymorphism associated with suicide attempts in major depressive
-    disorder
-  authors:
-  - Shitao Rao
-  - Mai Shi
-  - Xinyu Han
-  - Marco Ho Bun Lam
-  - Wai Tong Chien
-  - Keying Zhou
-  - Guangming Liu
-  - Yun Kwok Wing
-  - Hon-Cheong So
-  - Mary Miu Yee Waye
-  publisher: Gene
-  date: '2020-09-01'
-  id: doi:10.1016/j.gene.2020.144901
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
-- link: https://doi.org/ggxwrb
-  title: 'ASPM-lexical tone association in speakers of a tone language: Direct
-    evidence for the genetic-biasing hypothesis of language evolution'
-  authors:
-  - Patrick C. M. Wong
-  - Xin Kang
-  - Kay H. Y. Wong
-  - Hon-Cheong So
-  - Kwong Wai Choy
-  - Xiujuan Geng
-  publisher: Science Advances
-  date: '2020-05-27'
-  id: doi:10.1126/sciadv.aba5090
-  image: https://advances.sciencemag.org/content/advances/6/22/eaba5090/F1.medium.gif
-- link: https://doi.org/ggvnnz
-  title: Complement genes contribute sex-biased vulnerability in diverse disorders
-  authors:
-  - Nolan Kamitaki
-  - Aswin Sekar
-  - Robert E. Handsaker
-  - Heather de Rivera
-  - Katherine Tooley
-  - David L. Morris
-  - Kimberly E. Taylor
-  - Christopher W. Whelan
-  - Philip Tombleson
-  - Loes M. Olde Loohuis
-  - Michael Boehnke
-  - Robert P. Kimberly
-  - Kenneth M. Kaufman
-  - John B. Harley
-  - Carl D. Langefeld
-  - Christine E. Seidman
-  - Michele T. Pato
-  - Carlos N. Pato
-  - Roel A. Ophoff
-  - Robert R. Graham
-  - Lindsey A. Criswell
-  - Timothy J. Vyse
-  - Steven A. McCarroll
-  - ' '
-  publisher: Nature
-  date: '2020-05-11'
-  id: doi:10.1038/s41586-020-2277-x
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png
-- link: https://doi.org/ggxz79
-  title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
-    of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
-    Highlights Tentative Relevance of Diabetes-Related Traits'
-  authors:
-  - Shitao Rao
-  - Alexandria Lau
-  - Hon-Cheong So
-  publisher: Diabetes Care
-  date: '2020-07-01'
-  id: doi:10.2337/dc20-0643
-  image: https://care.diabetesjournals.org/sites/default/files/styles/medium/public/highwire/diacare/43/7.cover-source.jpg
-- link: https://doi.org/ghw5v9
-  title: 'Causal relationships between blood lipids and depression phenotypes: a Mendelian
-    randomisation analysis'
-  authors:
-  - Hon-Cheong So
-  - Carlos Kwan-long Chau
-  - Yu-ying Cheng
-  - Pak C. Sham
-  publisher: Psychological Medicine
-  date: '2020-04-24'
-  id: doi:10.1017/S0033291720000951
-  image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
-- link: https://doi.org/gbrssh
-  title: Analysis of genome-wide association data highlights candidates for drug repositioning
-    in psychiatry
-  authors:
-  - Hon-Cheong So
-  - Carlos Kwan-Long Chau
-  - Wan-To Chiu
-  - Kin-Sang Ho
-  - Cho-Pong Lo
-  - Stephanie Ho-Yue Yim
-  - Pak-Chung Sham
-  publisher: Nature Neuroscience
-  date: '2017-08-14'
-  id: doi:10.1038/nn.4618
-  image: https://media.springernature.com/full/nature-cms/uploads/product/neuro/header-0ccc487532906d646419e51f647ce79a.svg
-- link: https://doi.org/gbm6z6
-  title: Sustainability of treatment effect of a 3-year early intervention programme
-    for first-episode psychosis
-  authors:
-  - Wing Chung Chang
-  - Vivian Wing Yan Kwong
-  - Emily Sin Kei Lau
-  - Hon Cheong So
-  - Corine Sau Man Wong
-  - Gloria Hoi Kei Chan
-  - Olivia Tsz Ting Jim
-  - Christy Lai Ming Hui
-  - Sherry Kit Wa Chan
-  - Edwin Ho Ming Lee
-  - Eric Yu Hai Chen
-  publisher: British Journal of Psychiatry
-  date: '2018-01-02'
-  id: doi:10.1192/bjp.bp.117.198929
-  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20180726045414-78902-mediumThumb-S0007125000279968_fig1g.jpg
-- link: https://doi.org/ggh638
-  title: Genetic correlation between amyotrophic lateral sclerosis and schizophrenia
-  authors:
-  - Russell L. McLaughlin
-  - Dick Schijven
-  - Wouter van Rheenen
-  - Kristel R. van Eijk
-  - "Margaret O\u2019Brien"
-  - "Ren\xE9 S. Kahn"
-  - Roel A. Ophoff
-  - An Goris
-  - Daniel G. Bradley
-  - Ammar Al-Chalabi
-  - Leonard H. van den Berg
-  - Jurjen J. Luykx
-  - Orla Hardiman
-  - Jan H. Veldink
-  publisher: Nature Communications
-  date: '2017-03-21'
-  id: doi:10.1038/ncomms14774
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms14774/MediaObjects/41467_2017_Article_BFncomms14774_Fig1_HTML.jpg
-- link: https://doi.org/f9px26
-  title: Improving polygenic risk prediction from summary statistics by an empirical
-    Bayes approach
-  authors:
-  - Hon-Cheong So
-  - Pak C. Sham
-  publisher: Scientific Reports
-  date: '2017-02-01'
-  id: doi:10.1038/srep41262
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep41262/MediaObjects/41598_2017_Article_BFsrep41262_Fig1_HTML.jpg
-- link: https://doi.org/f9zzs4
-  title: 'Exploring the predictive power of polygenic scores derived from genome-wide
-    association studies: a study of 10 complex traits'
-  authors:
-  - Hon-Cheong So
-  - Pak C. Sham
-  publisher: Bioinformatics
-  date: '2017-01-08'
-  id: doi:10.1093/bioinformatics/btw745
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/33/6/1/m_bioinfo_33_6cover.png
-- link: https://doi.org/ghw5wb
-  title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based Study"
-  authors:
-  - Edwin Ho-Ming Lee
-  - Hon-Cheong So
-  - Eric Yu-Hai Chen
-  publisher: Psychiatric Services
-  date: '2016-05-01'
-  id: doi:10.1176/appi.ps.201600026
-  image: https://ps.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ps/2016/ps.2016.67.issue-5/ps.2016.67.issue-5/20160502/ps.2016.67.issue-5.cover.jpg
-- link: https://doi.org/f3vdwg
-  title: 'Genetic influences on schizophrenia and subcortical brain volumes: large-scale
-    proof of concept'
-  authors:
-  - Barbara Franke
-  - Jason L Stein
-  - Stephan Ripke
-  - Verneri Anttila
-  - Derrek P Hibar
-  - Kimm J E van Hulzen
-  - Alejandro Arias-Vasquez
-  - Jordan W Smoller
-  - Thomas E Nichols
-  - Michael C Neale
-  - Andrew M McIntosh
-  - Phil Lee
-  - Francis J McMahon
-  - Andreas Meyer-Lindenberg
-  - Manuel Mattheisen
-  - Ole A Andreassen
-  - Oliver Gruber
-  - Perminder S Sachdev
-  - "Roberto Roiz-Santia\xF1ez"
-  - Andrew J Saykin
-  - Stefan Ehrlich
-  - Karen A Mather
-  - Jessica A Turner
-  - Emanuel Schwarz
-  - Anbupalam Thalamuthu
-  - Yin Yao
-  - Yvonne Y W Ho
-  - Nicholas G Martin
-  - Margaret J Wright
-  - Michael C O'Donovan
-  - Paul M Thompson
-  - Benjamin M Neale
-  - Sarah E Medland
-  - Patrick F Sullivan
-  publisher: Nature Neuroscience
-  date: '2016-02-01'
-  id: doi:10.1038/nn.4228
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.4228/MediaObjects/41593_2016_Article_BFnn4228_Fig1_HTML.jpg
-- link: https://doi.org/f3t7td
-  title: Schizophrenia risk from complex variation of complement component 4
-  authors:
-  - Aswin Sekar
-  - Allison R. Bialas
-  - Heather de Rivera
-  - Avery Davis
-  - Timothy R. Hammond
-  - Nolan Kamitaki
-  - Katherine Tooley
-  - Jessy Presumey
-  - Matthew Baum
-  - Vanessa Van Doren
-  - Giulio Genovese
-  - Samuel A. Rose
-  - Robert E. Handsaker
-  - Mark J. Daly
-  - Michael C. Carroll
-  - Beth Stevens
-  - Steven A. McCarroll
-  publisher: Nature
-  date: '2016-01-27'
-  id: doi:10.1038/nature16549
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature16549/MediaObjects/41586_2016_Article_BFnature16549_Fig1_HTML.jpg
+# - link: https://doi.org/ghw5v6
+#   title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility,
+#     Replication Using Schizophrenia Datasets'
+#   authors:
+#   - Kwan-Yeung Lee
+#   - Kwong-Sak Leung
+#   - Suk Ling Ma
+#   - Hon Cheong So
+#   - Dan Huang
+#   - Nelson Leung-Sang Tang
+#   - Man-Hon Wong
+#   publisher: Frontiers in Genetics
+#   date: '2020-08-28'
+#   id: doi:10.3389/fgene.2020.01003
+#   image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_m/fgene-11-01003-g001.jpg
+# - link: https://doi.org/ghhnkp
+#   title: Pharmacologically reversible zonation-dependent endothelial cell transcriptomic
+#     changes with neurodegenerative disease associations in the aged brain
+#   authors:
+#   - Lei Zhao
+#   - Zhongqi Li
+#   - Joaquim S. L. Vong
+#   - Xinyi Chen
+#   - Hei-Ming Lai
+#   - Leo Y. C. Yan
+#   - Junzhe Huang
+#   - Samuel K. H. Sy
+#   - Xiaoyu Tian
+#   - Yu Huang
+#   - Ho Yin Edwin Chan
+#   - Hon-Cheong So
+#   - Wai-Lung Ng
+#   - Yamei Tang
+#   - Wei-Jye Lin
+#   - Vincent C. T. Mok
+#   - Ho Ko
+#   publisher: Nature Communications
+#   date: '2020-09-04'
+#   id: doi:10.1038/s41467-020-18249-3
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18249-3/MediaObjects/41467_2020_18249_Fig1_HTML.png
+# - link: https://doi.org/ghw5v7
+#   title: Turning genome-wide association study findings into opportunities for drug
+#     repositioning
+#   authors:
+#   - Alexandria Lau
+#   - Hon-Cheong So
+#   publisher: Computational and Structural Biotechnology Journal
+#   date: '2020-01-01'
+#   id: doi:10.1016/j.csbj.2020.06.015
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020303044-ga1.jpg
+# - link: https://doi.org/ghw5v8
+#   title: "Epigenetic CRISPR Screens Identify <i>Npm1</i> as a Therapeutic Vulnerability\
+#     \ in Non\u2013Small Cell Lung Cancer"
+#   authors:
+#   - Fei Li
+#   - Wai-Lung Ng
+#   - Troy A. Luster
+#   - Hai Hu
+#   - Vladislav O. Sviderskiy
+#   - "Catr\xEDona M. Dowling"
+#   - Kate E.R. Hollinshead
+#   - Paula Zouitine
+#   - Hua Zhang
+#   - Qingyuan Huang
+#   - Michela Ranieri
+#   - Wei Wang
+#   - Zhaoyuan Fang
+#   - Ting Chen
+#   - Jiehui Deng
+#   - Kai Zhao
+#   - Hon-Cheong So
+#   - Alireza Khodadadi-Jamayran
+#   - Mousheng Xu
+#   - Angeliki Karatza
+#   - Val Pyon
+#   - Shuai Li
+#   - Yuanwang Pan
+#   - Kristen Labbe
+#   - Christina Almonte
+#   - John T. Poirier
+#   - George Miller
+#   - Richard Possemato
+#   - Jun Qi
+#   - Kwok-Kin Wong
+#   publisher: Cancer Research
+#   date: '2020-09-01'
+#   id: doi:10.1158/0008-5472.CAN-19-3782
+#   image: https://cancerres.aacrjournals.org/content/canres/80/17/3556/F1.medium.gif
+# - link: https://doi.org/gg2t45
+#   title: Genome-wide copy number variation-, validation- and screening study implicates a new copy number polymorphism associated with suicide attempts in major depressive disorder
+#   authors:
+#   - Shitao Rao
+#   - Mai Shi
+#   - Xinyu Han
+#   - Marco Ho Bun Lam
+#   - Wai Tong Chien
+#   - Keying Zhou
+#   - Guangming Liu
+#   - Yun Kwok Wing
+#   - Hon-Cheong So
+#   - Mary Miu Yee Waye
+#   publisher: Gene
+#   date: '2020-09-01'
+#   id: doi:10.1016/j.gene.2020.144901
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
+# - link: https://doi.org/ggxwrb
+#   title: 'ASPM-lexical tone association in speakers of a tone language: Direct
+#     evidence for the genetic-biasing hypothesis of language evolution'
+#   authors:
+#   - Patrick C. M. Wong
+#   - Xin Kang
+#   - Kay H. Y. Wong
+#   - Hon-Cheong So
+#   - Kwong Wai Choy
+#   - Xiujuan Geng
+#   publisher: Science Advances
+#   date: '2020-05-27'
+#   id: doi:10.1126/sciadv.aba5090
+#   image: https://advances.sciencemag.org/content/advances/6/22/eaba5090/F1.medium.gif
+# - link: https://doi.org/ggvnnz
+#   title: Complement genes contribute sex-biased vulnerability in diverse disorders
+#   authors:
+#   - Nolan Kamitaki
+#   - Aswin Sekar
+#   - Robert E. Handsaker
+#   - Heather de Rivera
+#   - Katherine Tooley
+#   - David L. Morris
+#   - Kimberly E. Taylor
+#   - Christopher W. Whelan
+#   - Philip Tombleson
+#   - Loes M. Olde Loohuis
+#   - Michael Boehnke
+#   - Robert P. Kimberly
+#   - Kenneth M. Kaufman
+#   - John B. Harley
+#   - Carl D. Langefeld
+#   - Christine E. Seidman
+#   - Michele T. Pato
+#   - Carlos N. Pato
+#   - Roel A. Ophoff
+#   - Robert R. Graham
+#   - Lindsey A. Criswell
+#   - Timothy J. Vyse
+#   - Steven A. McCarroll
+#   publisher: Nature
+#   date: '2020-05-11'
+#   id: doi:10.1038/s41586-020-2277-x
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png
+# - link: https://doi.org/ggxz79
+#   title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
+#     of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
+#     Highlights Tentative Relevance of Diabetes-Related Traits'
+#   authors:
+#   - Shitao Rao
+#   - Alexandria Lau
+#   - Hon-Cheong So
+#   publisher: Diabetes Care
+#   date: '2020-07-01'
+#   id: doi:10.2337/dc20-0643
+#   image: https://care.diabetesjournals.org/sites/default/files/styles/medium/public/highwire/diacare/43/7.cover-source.jpg
+# - link: https://doi.org/ghw5v9
+#   title: 'Causal relationships between blood lipids and depression phenotypes: a Mendelian
+#     randomisation analysis'
+#   authors:
+#   - Hon-Cheong So
+#   - Carlos Kwan-long Chau
+#   - Yu-ying Cheng
+#   - Pak C. Sham
+#   publisher: Psychological Medicine
+#   date: '2020-04-24'
+#   id: doi:10.1017/S0033291720000951
+#   image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
+# - link: https://doi.org/gbrssh
+#   title: Analysis of genome-wide association data highlights candidates for drug repositioning
+#     in psychiatry
+#   authors:
+#   - Hon-Cheong So
+#   - Carlos Kwan-Long Chau
+#   - Wan-To Chiu
+#   - Kin-Sang Ho
+#   - Cho-Pong Lo
+#   - Stephanie Ho-Yue Yim
+#   - Pak-Chung Sham
+#   publisher: Nature Neuroscience
+#   date: '2017-08-14'
+#   id: doi:10.1038/nn.4618
+#   image: https://media.springernature.com/full/nature-cms/uploads/product/neuro/header-0ccc487532906d646419e51f647ce79a.svg
+# - link: https://doi.org/gbm6z6
+#   title: Sustainability of treatment effect of a 3-year early intervention programme
+#     for first-episode psychosis
+#   authors:
+#   - Wing Chung Chang
+#   - Vivian Wing Yan Kwong
+#   - Emily Sin Kei Lau
+#   - Hon Cheong So
+#   - Corine Sau Man Wong
+#   - Gloria Hoi Kei Chan
+#   - Olivia Tsz Ting Jim
+#   - Christy Lai Ming Hui
+#   - Sherry Kit Wa Chan
+#   - Edwin Ho Ming Lee
+#   - Eric Yu Hai Chen
+#   publisher: British Journal of Psychiatry
+#   date: '2018-01-02'
+#   id: doi:10.1192/bjp.bp.117.198929
+#   image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20180726045414-78902-mediumThumb-S0007125000279968_fig1g.jpg
+# - link: https://doi.org/ggh638
+#   title: Genetic correlation between amyotrophic lateral sclerosis and schizophrenia
+#   authors:
+#   - Russell L. McLaughlin
+#   - Dick Schijven
+#   - Wouter van Rheenen
+#   - Kristel R. van Eijk
+#   - "Margaret O\u2019Brien"
+#   - "Ren\xE9 S. Kahn"
+#   - Roel A. Ophoff
+#   - An Goris
+#   - Daniel G. Bradley
+#   - Ammar Al-Chalabi
+#   - Leonard H. van den Berg
+#   - Jurjen J. Luykx
+#   - Orla Hardiman
+#   - Jan H. Veldink
+#   publisher: Nature Communications
+#   date: '2017-03-21'
+#   id: doi:10.1038/ncomms14774
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms14774/MediaObjects/41467_2017_Article_BFncomms14774_Fig1_HTML.jpg
+# - link: https://doi.org/f9px26
+#   title: Improving polygenic risk prediction from summary statistics by an empirical
+#     Bayes approach
+#   authors:
+#   - Hon-Cheong So
+#   - Pak C. Sham
+#   publisher: Scientific Reports
+#   date: '2017-02-01'
+#   id: doi:10.1038/srep41262
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep41262/MediaObjects/41598_2017_Article_BFsrep41262_Fig1_HTML.jpg
+# - link: https://doi.org/f9zzs4
+#   title: 'Exploring the predictive power of polygenic scores derived from genome-wide
+#     association studies: a study of 10 complex traits'
+#   authors:
+#   - Hon-Cheong So
+#   - Pak C. Sham
+#   publisher: Bioinformatics
+#   date: '2017-01-08'
+#   id: doi:10.1093/bioinformatics/btw745
+#   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/33/6/1/m_bioinfo_33_6cover.png
+# - link: https://doi.org/ghw5wb
+#   title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based Study"
+#   authors:
+#   - Edwin Ho-Ming Lee
+#   - Hon-Cheong So
+#   - Eric Yu-Hai Chen
+#   publisher: Psychiatric Services
+#   date: '2016-05-01'
+#   id: doi:10.1176/appi.ps.201600026
+#   image: https://ps.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ps/2016/ps.2016.67.issue-5/ps.2016.67.issue-5/20160502/ps.2016.67.issue-5.cover.jpg
+# - link: https://doi.org/f3vdwg
+#   title: 'Genetic influences on schizophrenia and subcortical brain volumes: large-scale
+#     proof of concept'
+#   authors:
+#   - Barbara Franke
+#   - Jason L Stein
+#   - Stephan Ripke
+#   - Verneri Anttila
+#   - Derrek P Hibar
+#   - Kimm J E van Hulzen
+#   - Alejandro Arias-Vasquez
+#   - Jordan W Smoller
+#   - Thomas E Nichols
+#   - Michael C Neale
+#   - Andrew M McIntosh
+#   - Phil Lee
+#   - Francis J McMahon
+#   - Andreas Meyer-Lindenberg
+#   - Manuel Mattheisen
+#   - Ole A Andreassen
+#   - Oliver Gruber
+#   - Perminder S Sachdev
+#   - "Roberto Roiz-Santia\xF1ez"
+#   - Andrew J Saykin
+#   - Stefan Ehrlich
+#   - Karen A Mather
+#   - Jessica A Turner
+#   - Emanuel Schwarz
+#   - Anbupalam Thalamuthu
+#   - Yin Yao
+#   - Yvonne Y W Ho
+#   - Nicholas G Martin
+#   - Margaret J Wright
+#   - Michael C O'Donovan
+#   - Paul M Thompson
+#   - Benjamin M Neale
+#   - Sarah E Medland
+#   - Patrick F Sullivan
+#   publisher: Nature Neuroscience
+#   date: '2016-02-01'
+#   id: doi:10.1038/nn.4228
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.4228/MediaObjects/41593_2016_Article_BFnn4228_Fig1_HTML.jpg
+# - link: https://doi.org/f3t7td
+#   title: Schizophrenia risk from complex variation of complement component 4
+#   authors:
+#   - Aswin Sekar
+#   - Allison R. Bialas
+#   - Heather de Rivera
+#   - Avery Davis
+#   - Timothy R. Hammond
+#   - Nolan Kamitaki
+#   - Katherine Tooley
+#   - Jessy Presumey
+#   - Matthew Baum
+#   - Vanessa Van Doren
+#   - Giulio Genovese
+#   - Samuel A. Rose
+#   - Robert E. Handsaker
+#   - Mark J. Daly
+#   - Michael C. Carroll
+#   - Beth Stevens
+#   - Steven A. McCarroll
+#   publisher: Nature
+#   date: '2016-01-27'
+#   id: doi:10.1038/nature16549
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature16549/MediaObjects/41586_2016_Article_BFnature16549_Fig1_HTML.jpg
