@@ -305,87 +305,85 @@
   date: '2020-05-11'
   id: doi:10.1038/s41586-020-2277-x
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png
-# - link: https://doi.org/ggxz79
-#   title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
-#     of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
-#     Highlights Tentative Relevance of Diabetes-Related Traits'
-#   authors:
-#   - Shitao Rao
-#   - Alexandria Lau
-#   - Hon-Cheong So
-#   publisher: Diabetes Care
-#   date: '2020-07-01'
-#   id: doi:10.2337/dc20-0643
-#   image: https://care.diabetesjournals.org/sites/default/files/styles/medium/public/highwire/diacare/43/7.cover-source.jpg
-# - link: https://doi.org/ghw5v9
-#   title: 'Causal relationships between blood lipids and depression phenotypes: a Mendelian
-#     randomisation analysis'
-#   authors:
-#   - Hon-Cheong So
-#   - Carlos Kwan-long Chau
-#   - Yu-ying Cheng
-#   - Pak C. Sham
-#   publisher: Psychological Medicine
-#   date: '2020-04-24'
-#   id: doi:10.1017/S0033291720000951
-#   image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
-# - link: https://doi.org/gbrssh
-#   title: Analysis of genome-wide association data highlights candidates for drug repositioning
-#     in psychiatry
-#   authors:
-#   - Hon-Cheong So
-#   - Carlos Kwan-Long Chau
-#   - Wan-To Chiu
-#   - Kin-Sang Ho
-#   - Cho-Pong Lo
-#   - Stephanie Ho-Yue Yim
-#   - Pak-Chung Sham
-#   publisher: Nature Neuroscience
-#   date: '2017-08-14'
-#   id: doi:10.1038/nn.4618
-#   image: https://media.springernature.com/full/nature-cms/uploads/product/neuro/header-0ccc487532906d646419e51f647ce79a.svg
-# - link: https://doi.org/gbm6z6
-#   title: Sustainability of treatment effect of a 3-year early intervention programme
-#     for first-episode psychosis
-#   authors:
-#   - Wing Chung Chang
-#   - Vivian Wing Yan Kwong
-#   - Emily Sin Kei Lau
-#   - Hon Cheong So
-#   - Corine Sau Man Wong
-#   - Gloria Hoi Kei Chan
-#   - Olivia Tsz Ting Jim
-#   - Christy Lai Ming Hui
-#   - Sherry Kit Wa Chan
-#   - Edwin Ho Ming Lee
-#   - Eric Yu Hai Chen
-#   publisher: British Journal of Psychiatry
-#   date: '2018-01-02'
-#   id: doi:10.1192/bjp.bp.117.198929
-#   image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20180726045414-78902-mediumThumb-S0007125000279968_fig1g.jpg
-# - link: https://doi.org/ggh638
-#   title: Genetic correlation between amyotrophic lateral sclerosis and schizophrenia
-#   authors:
-#   - Russell L. McLaughlin
-#   - Dick Schijven
-#   - Wouter van Rheenen
-#   - Kristel R. van Eijk
-#   - "Margaret O\u2019Brien"
-#   - "Ren\xE9 S. Kahn"
-#   - Roel A. Ophoff
-#   - An Goris
-#   - Daniel G. Bradley
-#   - Ammar Al-Chalabi
-#   - Leonard H. van den Berg
-#   - Jurjen J. Luykx
-#   - Orla Hardiman
-#   - Jan H. Veldink
-#   - ' '
-#   - ' '
-#   publisher: Nature Communications
-#   date: '2017-03-21'
-#   id: doi:10.1038/ncomms14774
-#   https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms14774/MediaObjects/41467_2017_Article_BFncomms14774_Fig1_HTML.jpg
+- link: https://doi.org/ggxz79
+  title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
+    of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
+    Highlights Tentative Relevance of Diabetes-Related Traits'
+  authors:
+  - Shitao Rao
+  - Alexandria Lau
+  - Hon-Cheong So
+  publisher: Diabetes Care
+  date: '2020-07-01'
+  id: doi:10.2337/dc20-0643
+  image: https://care.diabetesjournals.org/sites/default/files/styles/medium/public/highwire/diacare/43/7.cover-source.jpg
+- link: https://doi.org/ghw5v9
+  title: 'Causal relationships between blood lipids and depression phenotypes: a Mendelian
+    randomisation analysis'
+  authors:
+  - Hon-Cheong So
+  - Carlos Kwan-long Chau
+  - Yu-ying Cheng
+  - Pak C. Sham
+  publisher: Psychological Medicine
+  date: '2020-04-24'
+  id: doi:10.1017/S0033291720000951
+  image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
+- link: https://doi.org/gbrssh
+  title: Analysis of genome-wide association data highlights candidates for drug repositioning
+    in psychiatry
+  authors:
+  - Hon-Cheong So
+  - Carlos Kwan-Long Chau
+  - Wan-To Chiu
+  - Kin-Sang Ho
+  - Cho-Pong Lo
+  - Stephanie Ho-Yue Yim
+  - Pak-Chung Sham
+  publisher: Nature Neuroscience
+  date: '2017-08-14'
+  id: doi:10.1038/nn.4618
+  image: https://media.springernature.com/full/nature-cms/uploads/product/neuro/header-0ccc487532906d646419e51f647ce79a.svg
+- link: https://doi.org/gbm6z6
+  title: Sustainability of treatment effect of a 3-year early intervention programme
+    for first-episode psychosis
+  authors:
+  - Wing Chung Chang
+  - Vivian Wing Yan Kwong
+  - Emily Sin Kei Lau
+  - Hon Cheong So
+  - Corine Sau Man Wong
+  - Gloria Hoi Kei Chan
+  - Olivia Tsz Ting Jim
+  - Christy Lai Ming Hui
+  - Sherry Kit Wa Chan
+  - Edwin Ho Ming Lee
+  - Eric Yu Hai Chen
+  publisher: British Journal of Psychiatry
+  date: '2018-01-02'
+  id: doi:10.1192/bjp.bp.117.198929
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20180726045414-78902-mediumThumb-S0007125000279968_fig1g.jpg
+- link: https://doi.org/ggh638
+  title: Genetic correlation between amyotrophic lateral sclerosis and schizophrenia
+  authors:
+  - Russell L. McLaughlin
+  - Dick Schijven
+  - Wouter van Rheenen
+  - Kristel R. van Eijk
+  - "Margaret O\u2019Brien"
+  - "Ren\xE9 S. Kahn"
+  - Roel A. Ophoff
+  - An Goris
+  - Daniel G. Bradley
+  - Ammar Al-Chalabi
+  - Leonard H. van den Berg
+  - Jurjen J. Luykx
+  - Orla Hardiman
+  - Jan H. Veldink
+  publisher: Nature Communications
+  date: '2017-03-21'
+  id: doi:10.1038/ncomms14774
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms14774/MediaObjects/41467_2017_Article_BFncomms14774_Fig1_HTML.jpg
 # - link: https://doi.org/f9px26
 #   title: Improving polygenic risk prediction from summary statistics by an empirical
 #     Bayes approach
