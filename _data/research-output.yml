@@ -1,331 +1,316 @@
-- title: Estimation of Genetic Correlation via Linkage Disequilibrium Score Regression
-    and Genomic Restricted Maximum Likelihood
+- title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility,
+    Replication Using Schizophrenia Datasets'
   authors:
-  - Guiyan Ni
-  - Gerhard Moser
-  - Naomi R. Wray
-  - S. Hong Lee
-  - Stephan Ripke
-  - Benjamin M. Neale
-  - Aiden Corvin
-  - James T.R. Walters
-  - Kai-How Farh
-  - Peter A. Holmans
-  - Phil Lee
-  - Brendan Bulik-Sullivan
-  - David A. Collier
-  - Hailiang Huang
-  - Tune H. Pers
-  - Ingrid Agartz
-  - Esben Agerbo
-  - Margot Albus
-  - Madeline Alexander
-  - Farooq Amin
-  - Silviu A. Bacanu
-  - Martin Begemann
-  - Richard A. Belliveau
-  - Judit Bene
-  - Sarah E. Bergen
-  - Elizabeth Bevilacqua
-  - Tim B. Bigdeli
-  - Donald W. Black
-  - Richard Bruggeman
-  - Nancy G. Buccola
-  - Randy L. Buckner
-  - William Byerley
-  - Wiepke Cahn
-  - Guiqing Cai
-  - Dominique Campion
-  - Rita M. Cantor
-  - Vaughan J. Carr
-  - Noa Carrera
-  - Stanley V. Catts
-  - Kimberly D. Chambert
-  - Raymond C.K. Chan
-  - Ronald Y.L. Chen
-  - Eric Y.H. Chen
-  - Wei Cheng
-  - Eric F.C. Cheung
-  - Siow Ann Chong
-  - C. Robert Cloninger
-  - David Cohen
-  - Nadine Cohen
-  - Paul Cormican
-  - Nick Craddock
-  - James J. Crowley
-  - David Curtis
-  - Michael Davidson
-  - Kenneth L. Davis
-  - Franziska Degenhardt
-  - Jurgen Del Favero
-  - Ditte Demontis
-  - Dimitris Dikeos
-  - Timothy Dinan
-  - Srdjan Djurovic
-  - Gary Donohoe
-  - Elodie Drapeau
-  - Jubao Duan
-  - Frank Dudbridge
-  - Naser Durmishi
-  - Peter Eichhammer
-  - Johan Eriksson
-  - Valentina Escott-Price
-  - Laurent Essioux
-  - Ayman H. Fanous
-  - Martilias S. Farrell
-  - Josef Frank
-  - Lude Franke
-  - Robert Freedman
-  - Nelson B. Freimer
-  - Marion Friedl
-  - Joseph I. Friedman
-  - Menachem Fromer
-  - Giulio Genovese
-  - Lyudmila Georgieva
-  - Ina Giegling
-  - "Paola Giusti-Rodr\xEDguez"
-  - Stephanie Godard
-  - Jacqueline I. Goldstein
-  - Vera Golimbet
-  - Srihari Gopal
-  - Jacob Gratten
-  - Lieuwe de Haan
-  - Christian Hammer
-  - Marian L. Hamshere
-  - Mark Hansen
-  - Thomas Hansen
-  - Vahram Haroutunian
-  - Annette M. Hartmann
-  - Frans A. Henskens
-  - Stefan Herms
-  - Joel N. Hirschhorn
-  - Per Hoffmann
-  - Andrea Hofman
-  - Mads V. Hollegaard
-  - David M. Hougaard
-  - Masashi Ikeda
-  - Inge Joa
-  - "Antonio Juli\xE1"
-  - "Ren\xE9 S. Kahn"
-  - Luba Kalaydjieva
-  - Sena Karachanak-Yankova
-  - Juha Karjalainen
-  - David Kavanagh
-  - Matthew C. Keller
-  - James L. Kennedy
-  - Andrey Khrunin
-  - Yunjung Kim
-  - Janis Klovins
-  - James A. Knowles
-  - Bettina Konte
-  - Vaidutis Kucinskas
-  - Zita Ausrele Kucinskiene
-  - Hana Kuzelova-Ptackova
-  - "Anna K. K\xE4hler"
-  - Claudine Laurent
-  - Jimmy Lee Chee Keong
-  - Sophie E. Legge
-  - Bernard Lerer
-  - Miaoxin Li
-  - Tao Li
-  - Kung-Yee Liang
-  - Jeffrey Lieberman
-  - Svetlana Limborska
-  - Carmel M. Loughland
-  - Jan Lubinski
-  - "Jouko L\xF6nnqvist"
-  - Milan Macek
-  - Patrik K.E. Magnusson
-  - Brion S. Maher
-  - Wolfgang Maier
-  - Jacques Mallet
-  - Sara Marsal
-  - Manuel Mattheisen
-  - Morten Mattingsda
-  - Robert W. McCarley
-  - Colm McDonald
-  - Andrew M. McIntosh
-  - Sandra Meier
-  - Carin J. Meijer
-  - Bela Melegh
-  - Ingrid Melle
-  - Raquelle I. Mesholam-Gately
-  - Andres Metspalu
-  - Patricia T. Michie
-  - Lili Milani
-  - Vihra Milanova
-  - Younes Mokrab
-  - Derek W. Morris
-  - Ole Mors
-  - Kieran C. Murphy
-  - Robin M. Murray
-  - Inez Myin-Germeys
-  - "Bertram M\xFCller-Myhsok"
-  - Mari Nelis
-  - Igor Nenadic
-  - Deborah A. Nertney
-  - Gerald Nestadt
-  - Kristin K. Nicodemus
-  - Liene Nikitina-Zake
-  - Laura Nisenbaum
-  - Annelie Nordin
-  - "Eadbhard O\u2019Callaghan"
-  - "Colm O\u2019Dushlaine"
-  - "F. Anthony O\u2019Neill"
-  - Sang-Yun Oh
-  - Ann Olinc
-  - Line Olsen
-  - Jim Van Os
-  - Christos Pantelis
-  - George N. Papadimitriou
-  - Sergi Papio
-  - Elena Parkhomenko
+  - Kwan-Yeung Lee
+  - Kwong-Sak Leung
+  - Suk Ling Ma
+  - Hon Cheong So
+  - Dan Huang
+  - Nelson Leung-Sang Tang
+  - Man-Hon Wong
+  publisher: Frontiers in Genetics
+  date: '2020-08-28'
+  link: https://doi.org/ghw5v6
+  id: doi:10.3389/fgene.2020.01003
+- title: Pharmacologically reversible zonation-dependent endothelial cell transcriptomic
+    changes with neurodegenerative disease associations in the aged brain
+  authors:
+  - Lei Zhao
+  - Zhongqi Li
+  - Joaquim S. L. Vong
+  - Xinyi Chen
+  - Hei-Ming Lai
+  - Leo Y. C. Yan
+  - Junzhe Huang
+  - Samuel K. H. Sy
+  - Xiaoyu Tian
+  - Yu Huang
+  - Ho Yin Edwin Chan
+  - Hon-Cheong So
+  - Wai-Lung Ng
+  - Yamei Tang
+  - Wei-Jye Lin
+  - Vincent C. T. Mok
+  - Ho Ko
+  publisher: Nature Communications
+  date: '2020-09-04'
+  link: https://doi.org/ghhnkp
+  id: doi:10.1038/s41467-020-18249-3
+- title: Turning genome-wide association study findings into opportunities for drug
+    repositioning
+  authors:
+  - Alexandria Lau
+  - Hon-Cheong So
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/ghw5v7
+  id: doi:10.1016/j.csbj.2020.06.015
+- title: "Epigenetic CRISPR Screens Identify <i>Npm1</i> as a Therapeutic Vulnerability\
+    \ in Non\u2013Small Cell Lung Cancer"
+  authors:
+  - Fei Li
+  - Wai-Lung Ng
+  - Troy A. Luster
+  - Hai Hu
+  - Vladislav O. Sviderskiy
+  - "Catr\xEDona M. Dowling"
+  - Kate E.R. Hollinshead
+  - Paula Zouitine
+  - Hua Zhang
+  - Qingyuan Huang
+  - Michela Ranieri
+  - Wei Wang
+  - Zhaoyuan Fang
+  - Ting Chen
+  - Jiehui Deng
+  - Kai Zhao
+  - Hon-Cheong So
+  - Alireza Khodadadi-Jamayran
+  - Mousheng Xu
+  - Angeliki Karatza
+  - Val Pyon
+  - Shuai Li
+  - Yuanwang Pan
+  - Kristen Labbe
+  - Christina Almonte
+  - John T. Poirier
+  - George Miller
+  - Richard Possemato
+  - Jun Qi
+  - Kwok-Kin Wong
+  publisher: Cancer Research
+  date: '2020-09-01'
+  link: https://doi.org/ghw5v8
+  id: doi:10.1158/0008-5472.CAN-19-3782
+- title: Genome-wide copy number variation-, validation- and screening study implicates
+    a new copy number polymorphism associated with suicide attempts in major depressive
+    disorder
+  authors:
+  - Shitao Rao
+  - Mai Shi
+  - Xinyu Han
+  - Marco Ho Bun Lam
+  - Wai Tong Chien
+  - Keying Zhou
+  - Guangming Liu
+  - Yun Kwok Wing
+  - Hon-Cheong So
+  - Mary Miu Yee Waye
+  publisher: Gene
+  date: '2020-09-01'
+  link: https://doi.org/gg2t45
+  id: doi:10.1016/j.gene.2020.144901
+- title: '<i>ASPM</i> -lexical tone association in speakers of a tone language: Direct
+    evidence for the genetic-biasing hypothesis of language evolution'
+  authors:
+  - Patrick C. M. Wong
+  - Xin Kang
+  - Kay H. Y. Wong
+  - Hon-Cheong So
+  - Kwong Wai Choy
+  - Xiujuan Geng
+  publisher: Science Advances
+  date: '2020-05-27'
+  link: https://doi.org/ggxwrb
+  id: doi:10.1126/sciadv.aba5090
+- title: Complement genes contribute sex-biased vulnerability in diverse disorders
+  authors:
+  - Nolan Kamitaki
+  - Aswin Sekar
+  - Robert E. Handsaker
+  - Heather de Rivera
+  - Katherine Tooley
+  - David L. Morris
+  - Kimberly E. Taylor
+  - Christopher W. Whelan
+  - Philip Tombleson
+  - Loes M. Olde Loohuis
+  - Michael Boehnke
+  - Robert P. Kimberly
+  - Kenneth M. Kaufman
+  - John B. Harley
+  - Carl D. Langefeld
+  - Christine E. Seidman
   - Michele T. Pato
-  - Tiina Paunio
-  - Milica Pejovic-Milovancevic
-  - Diana O. Perkins
-  - "Olli Pietil\xE4inenl"
-  - Jonathan Pimm
-  - Andrew J. Pocklington
-  - John Powell
-  - Alkes Price
-  - Ann E. Pulver
-  - Shaun M. Purcell
-  - Digby Quested
-  - Henrik B. Rasmussen
-  - Abraham Reichenberg
-  - Mark A. Reimers
-  - Alexander L. Richards
-  - Joshua L. Roffman
-  - Panos Roussos
-  - Douglas M. Ruderfer
-  - Veikko Salomaa
-  - Alan R. Sanders
-  - Ulrich Schall
-  - Christian R. Schubert
-  - Thomas G. Schulze
-  - Sibylle G. Schwab
-  - Edward M. Scolnick
-  - Rodney J. Scott
-  - Larry J. Seidman
-  - Jianxin Shi
-  - Engilbert Sigurdsson
-  - Teimuraz Silagadze
-  - Jeremy M. Silverman
-  - Kang Sim
-  - Petr Slominsky
-  - Jordan W. Smoller
-  - Hon-Cheong So
-  - Chris C.A. Spencer
-  - Eli A. Stah
-  - Hreinn Stefansson
-  - Stacy Steinberg
-  - Elisabeth Stogmann
-  - Richard E. Straub
-  - Eric Strengman
-  - Jana Strohmaier
-  - T. Scott Stroup
-  - Mythily Subramaniam
-  - Jaana Suvisaari
-  - Dragan M. Svrakic
-  - Jin P. Szatkiewicz
-  - "Erik S\xF6derman"
-  - Srinivas Thirumalai
-  - Draga Toncheva
-  - Sarah Tosato
-  - Juha Veijola
-  - John Waddington
-  - Dermot Walsh
-  - Dai Wang
-  - Qiang Wang
-  - Bradley T. Webb
-  - Mark Weiser
-  - Dieter B. Wildenauer
-  - Nigel M. Williams
-  - Stephanie Williams
-  - Stephanie H. Witt
-  - Aaron R. Wolen
-  - Emily H.M. Wong
-  - Brandon K. Wormley
-  - Hualin Simon Xi
-  - Clement C. Zai
-  - Xuebin Zheng
-  - Fritz Zimprich
-  - Kari Stefansson
-  - Peter M. Visscher
-  - Rolf Adolfsson
-  - Ole A. Andreassen
-  - Douglas H.R. Blackwood
-  - Elvira Bramon
-  - Joseph D. Buxbaum
-  - "Anders D. B\xF8rglum"
-  - Sven Cichon
-  - Ariel Darvasi
-  - Enrico Domenici
-  - Hannelore Ehrenreich
-  - "T\xF5nu Esko"
-  - Pablo V. Gejman
-  - Michael Gill
-  - Hugh Gurling
-  - Christina M. Hultman
-  - Nakao Iwata
-  - Assen V. Jablensky
-  - "Erik G. J\xF6nsson"
-  - Kenneth S. Kendler
-  - George Kirov
-  - Jo Knight
-  - Todd Lencz
-  - Douglas F. Levinson
-  - Qingqin S. Li
-  - Jianjun Liu
-  - Anil K. Malhotra
-  - Steven A. McCarrol
-  - Andrew McQuillin
-  - Jennifer L. Moran
-  - Preben B. Mortensen
-  - Bryan J. Mowry
-  - "Markus M. N\xF6then"
-  - Roel A. Ophoff
-  - Michael J. Owen
-  - Aarno Palotie
   - Carlos N. Pato
-  - Tracey L. Petryshen
-  - Danielle Posthuma
-  - Marcella Rietsche
-  - Brien P. Riley
-  - Dan Rujescu
-  - Pak C. Sham
-  - Pamela Sklar
-  - David St Clair
-  - Daniel R. Weinberger
-  - Jens R. Wendland
-  - Thomas Werge
-  - Mark J. Daly
-  - Patrick F. Sullivan
-  - "Michael C. O\u2019Donovan"
-  publisher: The American Journal of Human Genetics
-  date: '2018-06-01'
-  link: http://dx.doi.org/10.1016/j.ajhg.2018.03.021
-  id: http://dx.doi.org/10.1016/j.ajhg.2018.03.021
-- title: 'Drug Repositioning for Schizophrenia and Depression/Anxiety Disorders: A
-    Machine Learning Approach Leveraging Expression Data'
+  - Roel A. Ophoff
+  - Robert R. Graham
+  - Lindsey A. Criswell
+  - Timothy J. Vyse
+  - Steven A. McCarroll
+  - ' '
+  publisher: Nature
+  date: '2020-05-11'
+  link: https://doi.org/ggvnnz
+  id: doi:10.1038/s41586-020-2277-x
+- title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
+    of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
+    Highlights Tentative Relevance of Diabetes-Related Traits'
   authors:
-  - K. Zhao
-  - H.-C. So
-  publisher: IEEE Journal of Biomedical and Health Informatics
-  date: '2019-05-01'
-  link: http://dx.doi.org/10.1109/JBHI.2018.2856535
-  id: http://dx.doi.org/10.1109/JBHI.2018.2856535
-- title: Leveraging genome-wide association and clinical data in revealing schizophrenia
-    subgroups
-  authors:
-  - Liangying Yin
-  - Eric Fuk-Chi Cheung
-  - Ronald Yuk-Lun Chen
-  - Emily Hoi-Man Wong
-  - Pak-Chung Sham
+  - Shitao Rao
+  - Alexandria Lau
   - Hon-Cheong So
-  publisher: Journal of Psychiatric Research
-  date: '2018-11-01'
-  link: http://dx.doi.org/10.1016/j.jpsychires.2018.09.010
-  id: http://dx.doi.org/10.1016/j.jpsychires.2018.09.010
+  publisher: Diabetes Care
+  date: '2020-07-01'
+  link: https://doi.org/ggxz79
+  id: doi:10.2337/dc20-0643
+- title: 'Causal relationships between blood lipids and depression phenotypes: a Mendelian
+    randomisation analysis'
+  authors:
+  - Hon-Cheong So
+  - Carlos Kwan-long Chau
+  - Yu-ying Cheng
+  - Pak C. Sham
+  publisher: Psychological Medicine
+  date: '2020-04-24'
+  link: https://doi.org/ghw5v9
+  id: doi:10.1017/S0033291720000951
+- title: Analysis of genome-wide association data highlights candidates for drug repositioning
+    in psychiatry
+  authors:
+  - Hon-Cheong So
+  - Carlos Kwan-Long Chau
+  - Wan-To Chiu
+  - Kin-Sang Ho
+  - Cho-Pong Lo
+  - Stephanie Ho-Yue Yim
+  - Pak-Chung Sham
+  publisher: Nature Neuroscience
+  date: '2017-08-14'
+  link: https://doi.org/gbrssh
+  id: doi:10.1038/nn.4618
+- title: Sustainability of treatment effect of a 3-year early intervention programme
+    for first-episode psychosis
+  authors:
+  - Wing Chung Chang
+  - Vivian Wing Yan Kwong
+  - Emily Sin Kei Lau
+  - Hon Cheong So
+  - Corine Sau Man Wong
+  - Gloria Hoi Kei Chan
+  - Olivia Tsz Ting Jim
+  - Christy Lai Ming Hui
+  - Sherry Kit Wa Chan
+  - Edwin Ho Ming Lee
+  - Eric Yu Hai Chen
+  publisher: British Journal of Psychiatry
+  date: '2018-01-02'
+  link: https://doi.org/gbm6z6
+  id: doi:10.1192/bjp.bp.117.198929
+- title: Genetic correlation between amyotrophic lateral sclerosis and schizophrenia
+  authors:
+  - Russell L. McLaughlin
+  - Dick Schijven
+  - Wouter van Rheenen
+  - Kristel R. van Eijk
+  - "Margaret O\u2019Brien"
+  - "Ren\xE9 S. Kahn"
+  - Roel A. Ophoff
+  - An Goris
+  - Daniel G. Bradley
+  - Ammar Al-Chalabi
+  - Leonard H. van den Berg
+  - Jurjen J. Luykx
+  - Orla Hardiman
+  - Jan H. Veldink
+  - ' '
+  - ' '
+  publisher: Nature Communications
+  date: '2017-03-21'
+  link: https://doi.org/ggh638
+  id: doi:10.1038/ncomms14774
+- title: Improving polygenic risk prediction from summary statistics by an empirical
+    Bayes approach
+  authors:
+  - Hon-Cheong So
+  - Pak C. Sham
+  publisher: Scientific Reports
+  date: '2017-02-01'
+  link: https://doi.org/f9px26
+  id: doi:10.1038/srep41262
+- title: 'Exploring the predictive power of polygenic scores derived from genome-wide
+    association studies: a study of 10 complex traits'
+  authors:
+  - Hon-Cheong So
+  - Pak C. Sham
+  publisher: Bioinformatics
+  date: '2017-01-08'
+  link: https://doi.org/f9zzs4
+  id: doi:10.1093/bioinformatics/btw745
+- title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based\
+    \ Study"
+  authors:
+  - Edwin Ho-Ming Lee
+  - Hon-Cheong So
+  - Eric Yu-Hai Chen
+  publisher: Psychiatric Services
+  date: '2016-05-01'
+  link: https://doi.org/ghw5wb
+  id: doi:10.1176/appi.ps.201600026
+- title: 'Genetic influences on schizophrenia and subcortical brain volumes: large-scale
+    proof of concept'
+  authors:
+  - Barbara Franke
+  - Jason L Stein
+  - Stephan Ripke
+  - Verneri Anttila
+  - Derrek P Hibar
+  - Kimm J E van Hulzen
+  - Alejandro Arias-Vasquez
+  - Jordan W Smoller
+  - Thomas E Nichols
+  - Michael C Neale
+  - Andrew M McIntosh
+  - Phil Lee
+  - Francis J McMahon
+  - Andreas Meyer-Lindenberg
+  - Manuel Mattheisen
+  - Ole A Andreassen
+  - Oliver Gruber
+  - Perminder S Sachdev
+  - "Roberto Roiz-Santia\xF1ez"
+  - Andrew J Saykin
+  - Stefan Ehrlich
+  - Karen A Mather
+  - Jessica A Turner
+  - Emanuel Schwarz
+  - Anbupalam Thalamuthu
+  - Yin Yao
+  - Yvonne Y W Ho
+  - Nicholas G Martin
+  - Margaret J Wright
+  - Michael C O'Donovan
+  - Paul M Thompson
+  - Benjamin M Neale
+  - Sarah E Medland
+  - Patrick F Sullivan
+  - ' '
+  - ' '
+  publisher: Nature Neuroscience
+  date: '2016-02-01'
+  link: https://doi.org/f3vdwg
+  id: doi:10.1038/nn.4228
+- title: Schizophrenia risk from complex variation of complement component 4
+  authors:
+  - Aswin Sekar
+  - Allison R. Bialas
+  - Heather de Rivera
+  - Avery Davis
+  - Timothy R. Hammond
+  - Nolan Kamitaki
+  - Katherine Tooley
+  - Jessy Presumey
+  - Matthew Baum
+  - Vanessa Van Doren
+  - Giulio Genovese
+  - Samuel A. Rose
+  - Robert E. Handsaker
+  - Mark J. Daly
+  - Michael C. Carroll
+  - Beth Stevens
+  - Steven A. McCarroll
+  - ' '
+  publisher: Nature
+  date: '2016-01-27'
+  link: https://doi.org/f3t7td
+  id: doi:10.1038/nature16549
