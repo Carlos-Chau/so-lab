@@ -25,6 +25,7 @@
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/50446b21-02c3-4f94-b590-57cb7e898118/gr2.jpg
 
 - link: https://doi.org/10.1017/S0033291718003641
+  title: 'Translating GWAS findings into therapies for depression and anxiety disorders: gene-set analyses reveal enrichment of psychiatric drug classes and implications for drug repositioning'
   authors:
   - Hon-Cheong So
   - Carlos Kwan-Long Chau
@@ -246,6 +247,7 @@
   - Christopher W. Whelan
   - Philip Tombleson
   - Loes M. Olde Loohuis
+  - Schizophrenia Working Group of the Psychiatric Genomics Consortium
   - Michael Boehnke
   - Robert P. Kimberly
   - Kenneth M. Kaufman
@@ -310,7 +312,7 @@
   - Wing Chung Chang
   - Vivian Wing Yan Kwong
   - Emily Sin Kei Lau
-  - Hon Cheong So
+  - Hon-Cheong So
   - Corine Sau Man Wong
   - Gloria Hoi Kei Chan
   - Olivia Tsz Ting Jim
@@ -339,6 +341,7 @@
   - Jurjen J. Luykx
   - Orla Hardiman
   - Jan H. Veldink
+  - Project MinE GWAS Consortium & Schizophrenia Working Group of the Psychiatric Genomics Consortium
   publisher: Nature Communications
   date: '2017-03-21'
   id: doi:10.1038/ncomms14774
@@ -362,7 +365,7 @@
   publisher: Bioinformatics
   date: '2017-01-08'
   id: doi:10.1093/bioinformatics/btw745
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/33/6/1/m_bioinfo_33_6cover.png
+  image: https://cityu-bioinformatics.netlify.app/img/journal/spec/bioinformatics.jpg
 - link: https://doi.org/ghw5wb
   title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based Study"
   authors:
@@ -406,6 +409,8 @@
   - Yvonne Y W Ho
   - Nicholas G Martin
   - Margaret J Wright
+  - Schizophrenia Working Group of the Psychiatric Genomics Consortium
+  - Enigma Consortium
   - Michael C O'Donovan
   - Paul M Thompson
   - Benjamin M Neale
@@ -431,6 +436,7 @@
   - Giulio Genovese
   - Samuel A. Rose
   - Robert E. Handsaker
+  - Schizophrenia Working Group of the Psychiatric Genomics Consortium
   - Mark J. Daly
   - Michael C. Carroll
   - Beth Stevens
