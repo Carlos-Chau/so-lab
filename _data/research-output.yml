@@ -1,3 +1,5 @@
+# 2020, 2016-17, Manubot generated, image added afterwards
+# --------------------------------------------------------
 - title: 'Genome-Wide Search for SNP Interactions in GWAS Data: Algorithm, Feasibility,
     Replication Using Schizophrenia Datasets'
   authors:
@@ -12,7 +14,7 @@
   date: '2020-08-28'
   link: https://doi.org/ghw5v6
   id: doi:10.3389/fgene.2020.01003
-  image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_t/fgene-11-01003-g001.gif
+  image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_m/fgene-11-01003-g001.jpg
 - title: Pharmacologically reversible zonation-dependent endothelial cell transcriptomic
     changes with neurodegenerative disease associations in the aged brain
   authors:
@@ -37,7 +39,7 @@
   date: '2020-09-04'
   link: https://doi.org/ghhnkp
   id: doi:10.1038/s41467-020-18249-3
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18249-3/MediaObjects/41467_2020_18249_Fig1_HTML.png
 - title: Turning genome-wide association study findings into opportunities for drug
     repositioning
   authors:
@@ -149,7 +151,7 @@
   date: '2020-05-11'
   link: https://doi.org/ggvnnz
   id: doi:10.1038/s41586-020-2277-x
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png
 - title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
     of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
     Highlights Tentative Relevance of Diabetes-Related Traits'
@@ -161,7 +163,19 @@
   date: '2020-07-01'
   link: https://doi.org/ggxz79
   id: doi:10.2337/dc20-0643
-  image: https://care.diabetesjournals.org/sites/default/files/styles/medium/public/highwire/diacare/43/7.cover-source.jpg?itok=62mgBCHb
+  image: https://care.diabetesjournals.org/sites/default/files/styles/medium/public/highwire/diacare/43/7.cover-source.jpg
+- title: 'Causal relationships between blood lipids and depression phenotypes: a Mendelian
+    randomisation analysis'
+  authors:
+  - Hon-Cheong So
+  - Carlos Kwan-long Chau
+  - Yu-ying Cheng
+  - Pak C. Sham
+  publisher: Psychological Medicine
+  date: '2020-04-24'
+  link: https://doi.org/ghw5v9
+  id: doi:10.1017/S0033291720000951
+  image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
 - title: Analysis of genome-wide association data highlights candidates for drug repositioning
     in psychiatry
   authors:
@@ -218,7 +232,7 @@
   date: '2017-03-21'
   link: https://doi.org/ggh638
   id: doi:10.1038/ncomms14774
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms14774/MediaObjects/41467_2017_Article_BFncomms14774_Fig1_HTML.jpg
+  https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms14774/MediaObjects/41467_2017_Article_BFncomms14774_Fig1_HTML.jpg
 - title: Improving polygenic risk prediction from summary statistics by an empirical
     Bayes approach
   authors:
@@ -319,3 +333,191 @@
   link: https://doi.org/f3t7td
   id: doi:10.1038/nature16549
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature16549/MediaObjects/41586_2016_Article_BFnature16549_Fig1_HTML.jpg
+- title: 'Translating GWAS findings into therapies for depression and anxiety disorders:
+    gene-set analyses reveal enrichment of psychiatric drug classes and implications
+    for drug repositioning'
+  authors:
+  - Hon-Cheong So
+  - Carlos Kwan-Long Chau
+  - Alexandria Lau
+  - Sze-Yung Wong
+  - Kai Zhao
+  publisher: Psychological Medicine
+  date: '2018-12-20'
+  link: https://doi.org/ghw55w
+  id: doi:10.1017/S0033291718003641
+
+
+# 2018-19, manually compiled
+# -----------------------------------
+# - link:
+#   title: ''
+#   authors:
+#   -
+#   publisher:
+#   date: ''
+#   image:
+
+# - link:
+#   title: ''
+#   authors:
+#   -
+#   publisher:
+#   date: ''
+#   image:
+
+- title: Genomic Dissection of Bipolar Disorder and Schizophrenia, Including 28 Subphenotypes
+  authors:
+  - Bipolar Disorder and Schizophrenia Working Group of the Psychiatric Genomics Consortium
+  publisher: Cell
+  date: '2018-06-14'
+  link: https://www.sciencedirect.com/science/article/pii/S0092867418306585
+  id: doi.org/10.1016/j.cell.2018.05.046
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867418306585-fx1.jpg
+  tags:
+  - bipolar disorder
+  - schizophrenia
+  - subphenotypes
+  - polygenic risk
+
+- id: https://doi.org/10.1016/j.ajhg.2019.10.012
+  title: 'Integrating Clinical Data and Imputed Transcriptome from GWAS to Uncover Complex Disease Subtypes: Applications in Psychiatry and Cardiology'
+  authors:
+    - Liangying Yin
+    - Carlos K.L. Chau
+    - Pak-Chung Sham
+    - Hon-Cheong So
+  publisher: American Journal of Human Genetics
+  date: '2019-11-27'
+  link: https://doi.org/10.1016/j.ajhg.2019.10.012
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/50446b21-02c3-4f94-b590-57cb7e898118/gr2.jpg
+
+- title: 'Translating GWAS findings into therapies for depression and anxiety disorders: gene-set analyses reveal enrichment of psychiatric drug classes and implications for drug repositioning'
+  authors:
+  - Hon-Cheong So
+  - Carlos Kwan-Long Chau
+  - Alexandria Lau
+  - Sze-Yung Wong
+  - Kai Zhao
+  publisher: Psychological Medicine
+  date: '2018-12-20'
+  link: https://www.cambridge.org/core/journals/psychological-medicine/article/abs/translating-gwas-findings-into-therapies-for-depression-and-anxiety-disorders-geneset-analyses-reveal-enrichment-of-psychiatric-drug-classes-and-implications-for-drug-repositioning/D62965428C6D178E0AF79B892C15E2C6
+  id: https://doi.org/10.1017/S0033291718003641
+  image: https://static.cambridge.org/covers/PSM_0_0_0/psychological-medicine.jpg
+
+- link: https://link.springer.com/book/10.1007/978-1-4939-8955-3
+  title: 'Computational Methods for Drug Repurposing'
+  authors:
+  - Kai Zhao
+  - Hon-Cheong So
+  publisher: Computational Methods for Drug Repurposing
+  date: '2018-12-14'
+  image: https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4939-8955-3
+
+
+- link: https://onlinelibrary.wiley.com/doi/full/10.1002/da.22861
+  title: 'Differential associations of depression‐related phenotypes with cardiometabolic risks: Polygenic analyses and exploring shared genetic variants and pathways'
+  authors:
+  - Brian Chi‐Fung Wong
+  - Carlos Kwan‐Long Chau
+  - Fu‐Kiu Ao
+  - Cheuk‐Hei Mo
+  - Sze‐Yung Wong
+  - Yui‐Hang Wong
+  - Hon‐Cheong So
+  publisher: Depression and Anxiety
+  date: '2018-12-06'
+  image: https://onlinelibrary.wiley.com/cms/asset/7d3608f6-ec2f-4414-bd33-c9bff2d0a974/da22861-fig-0001-m.png
+
+- link: https://onlinelibrary.wiley.com/doi/full/10.1002/ajmg.b.32716
+  title: 'Population‐based identity‐by‐descent mapping combined with exome sequencing to detect rare risk variants for schizophrenia'
+  authors:
+    - Denise Harold
+    - Siobhan Connolly
+    - Brien P. Riley
+    - Kenneth S. Kendler
+    - Shane E. McCarthy
+    - William R. McCombie
+    - Alex Richards
+    - Michael J. Owen
+    - Michael C. O'Donovan
+    - James Walters
+    - Wellcome Trust Case Control Consortium 2
+    - Schizophrenia Working Group of the Psychiatric Genomics Consortium
+    - Gary Donohoe
+    - Michael Gill
+    - Aiden Corvin
+    - Derek W. Morris
+  publisher: Neuropsychiatric Genetics, Part B of the American Journal of Medical Genetics (AJMG)
+  date: '2019-02-23'
+  image: https://onlinelibrary.wiley.com/cms/asset/e62bcb2b-8601-45cb-ad8c-36a624dc4a8a/ajmgb32716-fig-0001-m.jpg
+
+- link: https://www.cambridge.org/core/journals/psychological-medicine/article/exploring-shared-genetic-bases-and-causal-relationships-of-schizophrenia-and-bipolar-disorder-with-28-cardiovascular-and-metabolic-traits/2B2E624CA0DDFFFC3969B67A090DF5C1
+  title: 'Exploring shared genetic bases and causal relationships of schizophrenia and bipolar disorder with 28 cardiovascular and metabolic traits'
+  authors:
+  - Hon-Cheong So
+  - Kwan-Long Chau
+  - Fu-Kiu Ao
+  - Cheuk-Hei Mo
+  - Pak-Chung Sham
+  publisher: Psychological Medicine
+  date: '2018-07-26'
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20190509090806056-0859:S0033291718001812:S0033291718001812_fig1g.gif
+
+- link: https://www.sciencedirect.com/science/article/pii/S0022395618308732
+  title: 'Implications of de novo mutations in guiding drug discovery: A study of four neuropsychiatric disorders'
+  authors:
+  - Hon-Cheong So
+  - Yui-Hang Wong
+  publisher: Journal of Psychiatric Research
+  date: '2019-03-01'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022395618308732-gr1.jpg
+
+- link: https://www.nature.com/articles/s41467-020-18249-3
+  title: 'Zonation-dependent single-endothelial cell transcriptomic changes in the aged brain'
+  authors:
+  - Lei Zhao
+  - Zhongqi Li
+  - Joaquim S. L. Vong
+  - Xinyi Chen
+  - Hei-Ming Lai
+  - Leo Y. C. Yan
+  - Junzhe Huang
+  - Samuel K. H. Sy
+  - Xiaoyu Tian
+  - Yu Huang
+  - Ho Yin Edwin Chan
+  - Hon-Cheong So
+  - Wai-Lung Ng
+  - Yamei Tang
+  - Wei-Jye Lin
+  - Vincent C.T. Mok
+  - Ho Ko
+  publisher: Nature Communications
+  date: '2020-09-04'
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-18249-3/MediaObjects/41467_2020_18249_Fig1_HTML.png
+
+- link: https://www.sciencedirect.com/science/article/pii/S0378111920305709
+  title: 'Genome-wide copy number variation-, validation- and screening study implicates a new copy number polymorphism associated with suicide attempts in major depressive disorder'
+  authors:
+    - Shitao Rao
+    - Mai Shi
+    - Xinyu Han
+    - Marco Ho Bun Lam
+    - Wai Tong Chien
+    - Keying Zhou
+    - Guangming Liu
+    - Yun Kwok Wing
+    - Hon-Cheong So
+    - Mary Miu Yee Waye
+  publisher: Gene
+  date: '2020-09-10'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
+
+- link: https://science.sciencemag.org/content/360/6395/eaap8757
+  title: 'Analysis of shared heritability in common disorders of the brain'
+  authors:
+  - THE BRAINSTORM CONSORTIUM
+  publisher: Science
+  date: '2018-07-22'
+  image: https://science.sciencemag.org/content/sci/360/6395/eaap8757/F3.medium.gif
