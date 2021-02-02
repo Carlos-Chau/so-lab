@@ -12,6 +12,7 @@
   date: '2020-08-28'
   link: https://doi.org/ghw5v6
   id: doi:10.3389/fgene.2020.01003
+  image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_t/fgene-11-01003-g001.gif
 - title: Pharmacologically reversible zonation-dependent endothelial cell transcriptomic
     changes with neurodegenerative disease associations in the aged brain
   authors:
@@ -36,6 +37,7 @@
   date: '2020-09-04'
   link: https://doi.org/ghhnkp
   id: doi:10.1038/s41467-020-18249-3
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
 - title: Turning genome-wide association study findings into opportunities for drug
     repositioning
   authors:
@@ -45,6 +47,7 @@
   date: '2020-01-01'
   link: https://doi.org/ghw5v7
   id: doi:10.1016/j.csbj.2020.06.015
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020303044-ga1.jpg
 - title: "Epigenetic CRISPR Screens Identify <i>Npm1</i> as a Therapeutic Vulnerability\
     \ in Non\u2013Small Cell Lung Cancer"
   authors:
@@ -82,6 +85,7 @@
   date: '2020-09-01'
   link: https://doi.org/ghw5v8
   id: doi:10.1158/0008-5472.CAN-19-3782
+  image: https://cancerres.aacrjournals.org/content/canres/80/17/3556/F1.medium.gif
 - title: Genome-wide copy number variation-, validation- and screening study implicates
     a new copy number polymorphism associated with suicide attempts in major depressive
     disorder
@@ -100,6 +104,7 @@
   date: '2020-09-01'
   link: https://doi.org/gg2t45
   id: doi:10.1016/j.gene.2020.144901
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
 - title: '<i>ASPM</i> -lexical tone association in speakers of a tone language: Direct
     evidence for the genetic-biasing hypothesis of language evolution'
   authors:
@@ -113,6 +118,7 @@
   date: '2020-05-27'
   link: https://doi.org/ggxwrb
   id: doi:10.1126/sciadv.aba5090
+  image: https://advances.sciencemag.org/content/advances/6/22/eaba5090/F1.medium.gif
 - title: Complement genes contribute sex-biased vulnerability in diverse disorders
   authors:
   - Nolan Kamitaki
@@ -143,6 +149,7 @@
   date: '2020-05-11'
   link: https://doi.org/ggvnnz
   id: doi:10.1038/s41586-020-2277-x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2277-x/MediaObjects/41586_2020_2277_Fig2_HTML.png?as=webp
 - title: 'Exploring Diseases/Traits and Blood Proteins Causally Related to Expression
     of ACE2, the Putative Receptor of SARS-CoV-2: A Mendelian Randomization Analysis
     Highlights Tentative Relevance of Diabetes-Related Traits'
@@ -154,17 +161,7 @@
   date: '2020-07-01'
   link: https://doi.org/ggxz79
   id: doi:10.2337/dc20-0643
-- title: 'Causal relationships between blood lipids and depression phenotypes: a Mendelian
-    randomisation analysis'
-  authors:
-  - Hon-Cheong So
-  - Carlos Kwan-long Chau
-  - Yu-ying Cheng
-  - Pak C. Sham
-  publisher: Psychological Medicine
-  date: '2020-04-24'
-  link: https://doi.org/ghw5v9
-  id: doi:10.1017/S0033291720000951
+  image: https://care.diabetesjournals.org/sites/default/files/styles/medium/public/highwire/diacare/43/7.cover-source.jpg?itok=62mgBCHb
 - title: Analysis of genome-wide association data highlights candidates for drug repositioning
     in psychiatry
   authors:
@@ -179,6 +176,7 @@
   date: '2017-08-14'
   link: https://doi.org/gbrssh
   id: doi:10.1038/nn.4618
+  image: https://media.springernature.com/full/nature-cms/uploads/product/neuro/header-0ccc487532906d646419e51f647ce79a.svg
 - title: Sustainability of treatment effect of a 3-year early intervention programme
     for first-episode psychosis
   authors:
@@ -197,6 +195,7 @@
   date: '2018-01-02'
   link: https://doi.org/gbm6z6
   id: doi:10.1192/bjp.bp.117.198929
+  image: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary-alt:20180726045414-78902-mediumThumb-S0007125000279968_fig1g.jpg
 - title: Genetic correlation between amyotrophic lateral sclerosis and schizophrenia
   authors:
   - Russell L. McLaughlin
@@ -219,6 +218,7 @@
   date: '2017-03-21'
   link: https://doi.org/ggh638
   id: doi:10.1038/ncomms14774
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms14774/MediaObjects/41467_2017_Article_BFncomms14774_Fig1_HTML.jpg
 - title: Improving polygenic risk prediction from summary statistics by an empirical
     Bayes approach
   authors:
@@ -228,6 +228,7 @@
   date: '2017-02-01'
   link: https://doi.org/f9px26
   id: doi:10.1038/srep41262
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep41262/MediaObjects/41598_2017_Article_BFsrep41262_Fig1_HTML.jpg
 - title: 'Exploring the predictive power of polygenic scores derived from genome-wide
     association studies: a study of 10 complex traits'
   authors:
@@ -237,6 +238,7 @@
   date: '2017-01-08'
   link: https://doi.org/f9zzs4
   id: doi:10.1093/bioinformatics/btw745
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/33/6/1/m_bioinfo_33_6cover.png
 - title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based\
     \ Study"
   authors:
@@ -247,6 +249,7 @@
   date: '2016-05-01'
   link: https://doi.org/ghw5wb
   id: doi:10.1176/appi.ps.201600026
+  image: https://ps.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ps/2016/ps.2016.67.issue-5/ps.2016.67.issue-5/20160502/ps.2016.67.issue-5.cover.jpg
 - title: 'Genetic influences on schizophrenia and subcortical brain volumes: large-scale
     proof of concept'
   authors:
@@ -290,6 +293,7 @@
   date: '2016-02-01'
   link: https://doi.org/f3vdwg
   id: doi:10.1038/nn.4228
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.4228/MediaObjects/41593_2016_Article_BFnn4228_Fig1_HTML.jpg
 - title: Schizophrenia risk from complex variation of complement component 4
   authors:
   - Aswin Sekar
@@ -314,16 +318,4 @@
   date: '2016-01-27'
   link: https://doi.org/f3t7td
   id: doi:10.1038/nature16549
-- title: 'Translating GWAS findings into therapies for depression and anxiety disorders:
-    gene-set analyses reveal enrichment of psychiatric drug classes and implications
-    for drug repositioning'
-  authors:
-  - Hon-Cheong So
-  - Carlos Kwan-Long Chau
-  - Alexandria Lau
-  - Sze-Yung Wong
-  - Kai Zhao
-  publisher: Psychological Medicine
-  date: '2018-12-20'
-  link: https://doi.org/ghw55w
-  id: doi:10.1017/S0033291718003641
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature16549/MediaObjects/41586_2016_Article_BFnature16549_Fig1_HTML.jpg
