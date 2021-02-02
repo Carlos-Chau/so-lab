@@ -202,9 +202,7 @@
   id: doi:10.1158/0008-5472.CAN-19-3782
   image: https://cancerres.aacrjournals.org/content/canres/80/17/3556/F1.medium.gif
 - link: https://doi.org/gg2t45
-  title: Genome-wide copy number variation-, validation- and screening study implicates
-    a new copy number polymorphism associated with suicide attempts in major depressive
-    disorder
+  title: Genome-wide copy number variation-, validation- and screening study implicates a new copy number polymorphism associated with suicide attempts in major depressive disorder
   authors:
   - Shitao Rao
   - Mai Shi
@@ -260,7 +258,6 @@
   - Lindsey A. Criswell
   - Timothy J. Vyse
   - Steven A. McCarroll
-  - ' '
   publisher: Nature
   date: '2020-05-11'
   id: doi:10.1038/s41586-020-2277-x
@@ -354,89 +351,89 @@
   date: '2017-02-01'
   id: doi:10.1038/srep41262
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep41262/MediaObjects/41598_2017_Article_BFsrep41262_Fig1_HTML.jpg
-- link: https://doi.org/f9zzs4
-  title: 'Exploring the predictive power of polygenic scores derived from genome-wide
-    association studies: a study of 10 complex traits'
-  authors:
-  - Hon-Cheong So
-  - Pak C. Sham
-  publisher: Bioinformatics
-  date: '2017-01-08'
-  id: doi:10.1093/bioinformatics/btw745
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/33/6/1/m_bioinfo_33_6cover.png
-- link: https://doi.org/ghw5wb
-  title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based Study"
-  authors:
-  - Edwin Ho-Ming Lee
-  - Hon-Cheong So
-  - Eric Yu-Hai Chen
-  publisher: Psychiatric Services
-  date: '2016-05-01'
-  id: doi:10.1176/appi.ps.201600026
-  image: https://ps.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ps/2016/ps.2016.67.issue-5/ps.2016.67.issue-5/20160502/ps.2016.67.issue-5.cover.jpg
-- link: https://doi.org/f3vdwg
-  title: 'Genetic influences on schizophrenia and subcortical brain volumes: large-scale
-    proof of concept'
-  authors:
-  - Barbara Franke
-  - Jason L Stein
-  - Stephan Ripke
-  - Verneri Anttila
-  - Derrek P Hibar
-  - Kimm J E van Hulzen
-  - Alejandro Arias-Vasquez
-  - Jordan W Smoller
-  - Thomas E Nichols
-  - Michael C Neale
-  - Andrew M McIntosh
-  - Phil Lee
-  - Francis J McMahon
-  - Andreas Meyer-Lindenberg
-  - Manuel Mattheisen
-  - Ole A Andreassen
-  - Oliver Gruber
-  - Perminder S Sachdev
-  - "Roberto Roiz-Santia\xF1ez"
-  - Andrew J Saykin
-  - Stefan Ehrlich
-  - Karen A Mather
-  - Jessica A Turner
-  - Emanuel Schwarz
-  - Anbupalam Thalamuthu
-  - Yin Yao
-  - Yvonne Y W Ho
-  - Nicholas G Martin
-  - Margaret J Wright
-  - Michael C O'Donovan
-  - Paul M Thompson
-  - Benjamin M Neale
-  - Sarah E Medland
-  - Patrick F Sullivan
-  publisher: Nature Neuroscience
-  date: '2016-02-01'
-  id: doi:10.1038/nn.4228
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.4228/MediaObjects/41593_2016_Article_BFnn4228_Fig1_HTML.jpg
-- link: https://doi.org/f3t7td
-  title: Schizophrenia risk from complex variation of complement component 4
-  authors:
-  - Aswin Sekar
-  - Allison R. Bialas
-  - Heather de Rivera
-  - Avery Davis
-  - Timothy R. Hammond
-  - Nolan Kamitaki
-  - Katherine Tooley
-  - Jessy Presumey
-  - Matthew Baum
-  - Vanessa Van Doren
-  - Giulio Genovese
-  - Samuel A. Rose
-  - Robert E. Handsaker
-  - Mark J. Daly
-  - Michael C. Carroll
-  - Beth Stevens
-  - Steven A. McCarroll
-  publisher: Nature
-  date: '2016-01-27'
-  id: doi:10.1038/nature16549
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature16549/MediaObjects/41586_2016_Article_BFnature16549_Fig1_HTML.jpg
+# - link: https://doi.org/f9zzs4
+#   title: 'Exploring the predictive power of polygenic scores derived from genome-wide
+#     association studies: a study of 10 complex traits'
+#   authors:
+#   - Hon-Cheong So
+#   - Pak C. Sham
+#   publisher: Bioinformatics
+#   date: '2017-01-08'
+#   id: doi:10.1093/bioinformatics/btw745
+#   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/33/6/1/m_bioinfo_33_6cover.png
+# - link: https://doi.org/ghw5wb
+#   title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based Study"
+#   authors:
+#   - Edwin Ho-Ming Lee
+#   - Hon-Cheong So
+#   - Eric Yu-Hai Chen
+#   publisher: Psychiatric Services
+#   date: '2016-05-01'
+#   id: doi:10.1176/appi.ps.201600026
+#   image: https://ps.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ps/2016/ps.2016.67.issue-5/ps.2016.67.issue-5/20160502/ps.2016.67.issue-5.cover.jpg
+# - link: https://doi.org/f3vdwg
+#   title: 'Genetic influences on schizophrenia and subcortical brain volumes: large-scale
+#     proof of concept'
+#   authors:
+#   - Barbara Franke
+#   - Jason L Stein
+#   - Stephan Ripke
+#   - Verneri Anttila
+#   - Derrek P Hibar
+#   - Kimm J E van Hulzen
+#   - Alejandro Arias-Vasquez
+#   - Jordan W Smoller
+#   - Thomas E Nichols
+#   - Michael C Neale
+#   - Andrew M McIntosh
+#   - Phil Lee
+#   - Francis J McMahon
+#   - Andreas Meyer-Lindenberg
+#   - Manuel Mattheisen
+#   - Ole A Andreassen
+#   - Oliver Gruber
+#   - Perminder S Sachdev
+#   - "Roberto Roiz-Santia\xF1ez"
+#   - Andrew J Saykin
+#   - Stefan Ehrlich
+#   - Karen A Mather
+#   - Jessica A Turner
+#   - Emanuel Schwarz
+#   - Anbupalam Thalamuthu
+#   - Yin Yao
+#   - Yvonne Y W Ho
+#   - Nicholas G Martin
+#   - Margaret J Wright
+#   - Michael C O'Donovan
+#   - Paul M Thompson
+#   - Benjamin M Neale
+#   - Sarah E Medland
+#   - Patrick F Sullivan
+#   publisher: Nature Neuroscience
+#   date: '2016-02-01'
+#   id: doi:10.1038/nn.4228
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.4228/MediaObjects/41593_2016_Article_BFnn4228_Fig1_HTML.jpg
+# - link: https://doi.org/f3t7td
+#   title: Schizophrenia risk from complex variation of complement component 4
+#   authors:
+#   - Aswin Sekar
+#   - Allison R. Bialas
+#   - Heather de Rivera
+#   - Avery Davis
+#   - Timothy R. Hammond
+#   - Nolan Kamitaki
+#   - Katherine Tooley
+#   - Jessy Presumey
+#   - Matthew Baum
+#   - Vanessa Van Doren
+#   - Giulio Genovese
+#   - Samuel A. Rose
+#   - Robert E. Handsaker
+#   - Mark J. Daly
+#   - Michael C. Carroll
+#   - Beth Stevens
+#   - Steven A. McCarroll
+#   publisher: Nature
+#   date: '2016-01-27'
+#   id: doi:10.1038/nature16549
+#   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature16549/MediaObjects/41586_2016_Article_BFnature16549_Fig1_HTML.jpg
