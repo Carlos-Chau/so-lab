@@ -1,7 +1,7 @@
 - id: doi:10.3389/fgene.2020.01003
 	image: https://www.frontiersin.org/files/Articles/561986/fgene-11-01003-HTML-r1/image_t/fgene-11-01003-g001.gif
 - id: doi:10.1038/s41467-020-18249-3
-	image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0378111920305709-ga1.jpg
 - id: doi:10.1016/j.csbj.2020.06.015
 	image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020303044-ga1.jpg
 - id: doi:10.1158/0008-5472.CAN-19-3782
