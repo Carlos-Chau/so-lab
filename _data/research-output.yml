@@ -252,8 +252,7 @@
   link: https://doi.org/f9zzs4
   id: doi:10.1093/bioinformatics/btw745
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/Issue/33/6/1/m_bioinfo_33_6cover.png
-- title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based\
-    \ Study"
+- title: "Admission Rates and Psychiatric Beds in Hong Kong, 1999\u20132014: A Population-Based Study"
   authors:
   - Edwin Ho-Ming Lee
   - Hon-Cheong So
@@ -345,10 +344,8 @@
   date: '2018-12-20'
   link: https://doi.org/ghw55w
   id: doi:10.1017/S0033291718003641
-
-
 # 2018-19, manually compiled
-# -----------------------------------
+## -----------------------------------
 # - link:
 #   title: ''
 #   authors:
@@ -356,7 +353,6 @@
 #   publisher:
 #   date: ''
 #   image:
-
 # - link:
 #   title: ''
 #   authors:
@@ -364,7 +360,6 @@
 #   publisher:
 #   date: ''
 #   image:
-
 - title: Genomic Dissection of Bipolar Disorder and Schizophrenia, Including 28 Subphenotypes
   authors:
   - Bipolar Disorder and Schizophrenia Working Group of the Psychiatric Genomics Consortium
