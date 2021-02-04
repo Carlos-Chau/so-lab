@@ -2,21 +2,28 @@
 title: Contact
 ---
 
-# <i class="fas fa-envelope"></i>Contact
 
-We're located at CUHK campus, **Lo Kwee-Seong Integrated Biomedical Sciences, 5th floor**
+## Address
 
-To reach us, head to the Yasumoto International Academic Park and wait for **bus no. 4** (departing
-at **10,30,50 min from 7am-6pm**), and alight at the 3rd stop.
+We're located at:
 
-# Bus stop location
+Room 520-521, 5/F
+Lo Kwee-Seong Integrated Biomedical Sciences Building,  
+Area 39, The Chinese University of Hong Kong
 {:.center}
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3688.0394484387793!2d114.203944!3d22.427541!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76b8a204e365257f!2sSchool%20of%20Biomedical%20Sciences%2C%20The%20Chinese%20University%20of%20Hong%20Kong!5e0!3m2!1sen!2shk!4v1612270762418!5m2!1sen!2shk" width="700" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+<!-- # School of Biomedical Sciences Building -->
 {:.center}
-# School of Biomedical Sciences Building
-{:.center}
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3688.0394484387793!2d114.203944!3d22.427541!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76b8a204e365257f!2sSchool%20of%20Biomedical%20Sciences%2C%20The%20Chinese%20University%20of%20Hong%20Kong!5e0!3m2!1sen!2shk!4v1612271411258!5m2!1sen!2shk" width="700" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-{:.center}
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3688.0394484387793!2d114.203944!3d22.427541!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76b8a204e365257f!2sSchool%20of%20Biomedical%20Sciences%2C%20The%20Chinese%20University%20of%20Hong%20Kong!5e0!3m2!1sen!2shk!4v1612271411258!5m2!1sen!2shk" width="500" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+<!-- section break -->
+
+# Reach us by CUHK Campus Bus
+
+To reach us, take:
+- **Campus Bus no. 4** at [Yasumoto International Academic Park](https://goo.gl/maps/g424zWskuSyKyXxR7) (bus departs at **10,30,50 min of every hour**); or
+- **Campus Bus no. 8** at [University Administration Building bus stop](https://goo.gl/maps/JB4wXswUoEnbUu5u5) (bus departs at **17,27,47 min of every hour**)
+
 <!--
 {%
   include figure.html
@@ -25,13 +32,3 @@ at **10,30,50 min from 7am-6pm**), and alight at the 3rd stop.
   caption="The Center for Wit and Sagacity"
 %}
 -->
-
-<!-- section break -->
-
-### Address
-
-Lo Kwee-Seong Integrated Biomedical Sciences Building,  
-Area 39, The Chinese University of Hong Kong
-{:.center}
-
-{:.center}
